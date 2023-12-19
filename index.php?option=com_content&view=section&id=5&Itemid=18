@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="joomla, Joomla" />
+  <meta name="description" content="Joomla! - the dynamic portal engine and content management system" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>News</title>
+  <link href="/index.php?option=com_content&amp;view=section&amp;id=5&amp;Itemid=18&amp;format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?option=com_content&amp;view=section&amp;id=5&amp;Itemid=18&amp;format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/bizdeveloment_red/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+<link rel="stylesheet" href="/templates/_system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="/templates/bizdeveloment_red/css/template_css.css" type="text/css" />
+
+<link rel="alternate" title="Pontian Greek Society of Chicago" href="/index2.php?option=com_rss&amp;no_html=1" type="application/rss+xml" />
+<link rel="shortcut icon" href="/templates/bizdeveloment_red/favicon.ico" />
+</head>
+<body>
+<div id="top">
+  <div class="rights">
+    <div id="search">
+      		<div class="moduletable">
+					<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+</form>		</div>
+	
+    </div>
+  </div>
+  <div class="lefts">
+    <div class="padding">
+      <h1>Pontian Greek Society of Chicago</h1>
+      <h2> Preserving the history and heritage of the Pontian Greeks</h2>
+    </div>
+  </div>
+</div>
+<div class="content">
+<div id="main">
+<div id="topmenu">
+  		<div class="moduletable">
+					<ul id="mainlevel-nav"><li><a href="/index.php?option=com_content&amp;view=frontpage&amp;Itemid=53" class="mainlevel-nav" >Home</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=58&amp;Itemid=28" class="mainlevel-nav" >About Us</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=155&amp;Itemid=29" class="mainlevel-nav" >Features</a></li><li><a href="/index.php?option=com_content&amp;view=section&amp;id=5&amp;Itemid=18" class="mainlevel-nav" id="active_menu-nav">News/Events</a></li><li><a href="/index.php?option=com_contact&amp;view=contact&amp;id=2&amp;Itemid=65" class="mainlevel-nav" >Contact Us</a></li></ul>		</div>
+	
+</div>
+
+<div id="newsflash">        
+  <div class="left">
+    <div class="padding">
+      	<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<td>
+				<table class="moduletable">
+	<tr>
+			<td>
+			<table class="contentpaneopen">
+<tr>
+	<td class="contentheading" width="100%">
+			The Great Betrayal		</td>
+</tr>
+</table>
+
+
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" colspan="2"><p><font face="Arial"><font size="3">Reissued and now available:</font> <font size="3"><strong><em><a title="" target="_blank" href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=53&amp;Itemid=73"><font size="4">The Great Betrayal</font></a></em></strong>&nbsp;- </font></font><font size="2" face="Arial">A powerful book, first published<br />
+in 1924, exposes&nbsp;</font><font face="Arial"><font size="2">how the pursuit of economic interests by the Great Powers after World War I contributed to the destruction of the Christian communities in Turkey (Asia Minor).<font color="#000000"> </font></font><a title="" target="_self" href="/index.php?option=com_contact&amp;view=contact&amp;id=2&amp;Itemid=65"><span><font size="2" color="#cc0000" face="Arial">Contact us</font></span></a><font color="#000000"><span><font face="Arial"><font size="2">&nbsp;<font color="#ffffff">to receive a copy of the book with your US$35 donation to our organization or order online at </font></font><a title="" target="_self" href="http://www.amazon.com/gp/shops/storefront/index.html?ie=UTF8&amp;marketplaceID=ATVPDKIKX0DER&amp;sellerID=A2TVK6YQ46JEWI"><font size="2" color="#890e06">Amazon.com</font></a><font size="2">. <br />
+</font></font></span></font></font></p>
+<p><font size="2" face="Arial">&nbsp;</font></p></td>
+	</tr>
+</table>
+		</td>
+		</tr>
+</table>			</td>
+		</tr>
+		</table>
+	
+    </div>
+  </div>
+</div>
+
+<div class="padding">
+  <div id="right_side_wide">
+    <div class="componentheading">
+	News and Events</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="contentpane">
+<tr>
+	<td width="60%" valign="top" class="contentdescription" colspan="2">
+				<p><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our organization strives to host educational lectures&nbsp;and social&nbsp;gatherings which promote our history, traditions,&nbsp;and culture.</font>&nbsp;&nbsp;</p>		</td>
+</tr>
+<tr>
+	<td colspan="2">
+		<ul>
+					<li>
+			<a href="/index.php?view=category&amp;id=34%3Anational-news&amp;option=com_content&amp;Itemid=18" class="category">
+				National News</a>
+						&nbsp;
+			<span class="small">
+				( 1 Articles )
+			</span>
+								</li>
+					<li>
+			<a href="/index.php?view=category&amp;id=35%3Alocal-news&amp;option=com_content&amp;Itemid=18" class="category">
+				Local News</a>
+						&nbsp;
+			<span class="small">
+				( 1 Articles )
+			</span>
+								</li>
+					<li>
+			<a href="/index.php?view=category&amp;id=36%3Aannouncements&amp;option=com_content&amp;Itemid=18" class="category">
+				Announcements</a>
+						&nbsp;
+			<span class="small">
+				( 4 Articles )
+			</span>
+								</li>
+					<li>
+			<a href="/index.php?view=category&amp;id=37%3Alectures&amp;option=com_content&amp;Itemid=18" class="category">
+				Lectures</a>
+						&nbsp;
+			<span class="small">
+				( 5 Articles )
+			</span>
+								</li>
+		</ul>
+		</td>
+</tr>
+</table>
+
+      </div>
+  <div id="left_side">
+    		<div class="moduletable_menu">
+					<h3>Main Menu</h3>
+					<ul class="menu"><li class="item1"><a href="http://www.pontiangreeks.org/"><span>Home</span></a></li><li class="parent item54"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=5&amp;Itemid=54"><span>News &amp; Events</span></a></li><li class="parent item27"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=6&amp;Itemid=27"><span>Press Room</span></a></li><li class="parent item2"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=7&amp;Itemid=2"><span>Pontian Greek History</span></a></li><li class="parent item37"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=8&amp;Itemid=37"><span>Dedications &amp; Rememberance</span></a></li><li class="parent item41"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=9&amp;Itemid=41"><span>Education</span></a></li><li class="parent item55"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=10&amp;Itemid=55"><span>Our Culture</span></a></li><li class="parent item90"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=12&amp;Itemid=90"><span>Youth Group</span></a></li></ul>		</div>
+	
+  </div>
+  <div id="footer">
+    <div class="padding">
+      <h5><a href="#">&copy; 2009</a> <a href="/"  title="Pontian Greek Society of Chicago">Pontian Greek Society of Chicago - All rights reserved <br/>P.O. Box 6127 <br/> Bloomingdale, IL 60108-6127 <br/></a> </h5>
+          </div>
+  </div>
+</div>
+
+</body>
+</html>

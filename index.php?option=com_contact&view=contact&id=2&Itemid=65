@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="joomla, Joomla" />
+  <meta name="description" content="Joomla! - the dynamic portal engine and content management system" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Office Inquiries</title>
+  <link href="/templates/bizdeveloment_red/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/validate.js"></script>
+  <script type="text/javascript">
+<!--
+		function validateForm( frm ) {
+			var valid = document.formvalidator.isValid(frm);
+			if (valid == false) {
+				// do field validation
+				if (frm.email.invalid) {
+					alert( "Please enter a valid e-mail address:" );
+				} else if (frm.text.invalid) {
+					alert( "Please make sure the form is complete and valid." );
+				}
+				return false;
+			} else {
+				frm.submit();
+			}
+		}
+		// -->
+  </script>
+
+<link rel="stylesheet" href="/templates/_system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="/templates/bizdeveloment_red/css/template_css.css" type="text/css" />
+
+<link rel="alternate" title="Pontian Greek Society of Chicago" href="/index2.php?option=com_rss&amp;no_html=1" type="application/rss+xml" />
+<link rel="shortcut icon" href="/templates/bizdeveloment_red/favicon.ico" />
+</head>
+<body>
+<div id="top">
+  <div class="rights">
+    <div id="search">
+      		<div class="moduletable">
+					<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+</form>		</div>
+	
+    </div>
+  </div>
+  <div class="lefts">
+    <div class="padding">
+      <h1>Pontian Greek Society of Chicago</h1>
+      <h2> Preserving the history and heritage of the Pontian Greeks</h2>
+    </div>
+  </div>
+</div>
+<div class="content">
+<div id="main">
+<div id="topmenu">
+  		<div class="moduletable">
+					<ul id="mainlevel-nav"><li><a href="/index.php?option=com_content&amp;view=article&amp;id=58&amp;Itemid=28" class="mainlevel-nav" >About Us</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=171&amp;Itemid=30" class="mainlevel-nav" >Calendar of Events</a></li><li><a href="/index.php?option=com_contact&amp;view=contact&amp;id=2&amp;Itemid=65" class="mainlevel-nav" id="active_menu-nav">Contact Us</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=187&amp;Itemid=111" class="mainlevel-nav" >Related Links</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=211&amp;Itemid=112" class="mainlevel-nav" >Supporters</a></li></ul>		</div>
+	
+</div>
+
+<div id="newsflash">        
+  <div class="left">
+    <div class="padding">
+      	<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<td>
+							</td>
+		</tr>
+		</table>
+	
+    </div>
+  </div>
+</div>
+
+<div class="padding">
+  <div id="right_side_wide">
+    <div id="component-contact">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="contentpaneopen">
+<tr>
+	<td colspan="2" align="center">
+		<br />
+		<form action="/index.php?option=com_contact&amp;view=contact&amp;id=2&amp;Itemid=65" method="post" name="selectForm" id="selectForm">
+		Select Contact:
+			<br />
+			<select name="contact_id" id="contact_id" class="inputbox" onchange="this.form.submit()"><option value="2"  selected="selected">Office Inquiries</option><option value="4" >Seminars / Workshops</option><option value="5" >Dance / Youth</option><option value="3" >Web Site Administrator</option></select>			<input type="hidden" name="option" value="com_contact" />
+		</form>
+	</td>
+</tr>
+<tr>
+	<td width="100%" class="contentheading">
+		Office Inquiries	</td>
+</tr>
+<tr>
+	<td colspan="2">
+	General Office Inquiries		<br /><br />
+	</td>
+</tr>
+<tr>
+	<td>
+		<table border="0" width="100%">
+		<tr>
+			<td></td>
+			<td rowspan="2" align="right" valign="top">
+						</td>
+		</tr>
+		<tr>
+			<td>
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+	<td rowspan="6" valign="top" width="40" >
+		<img src="/images/M_images/con_address.png" alt="Address: "  />	</td>
+</tr>
+<tr>
+	<td valign="top">
+		Pontian Greek Society of Chicago<br />
+P.O. Box 6127<br />
+Bloomingdale, IL 60108-6127	</td>
+</tr>
+</table>
+<br />
+<br />
+			</td>
+		</tr>
+		</table>
+	</td>
+	<td>&nbsp;</td>
+</tr>
+<tr>
+	<td></td>
+</tr>
+<tr>
+	<td colspan="2">
+	<br /><br />
+	<form action="/index.php?option=com_contact&amp;view=contact&amp;id=2&amp;Itemid=65" method="post" name="emailForm" id="emailForm" class="form-validate">
+		<div class="contact_email">
+			<label for="contact_name">
+				&nbsp;Enter your Name:
+			</label>
+			<br />
+			<input type="text" name="name" id="contact_name" size="30" class="inputbox" value="" />
+			<br />
+			<label id="contact_emailmsg" for="contact_email">
+				&nbsp;E-mail address:
+			</label>
+			<br />
+			<input type="text" id="contact_email" name="email" size="30" value="" class="inputbox required validate-email" maxlength="100" />
+			<br />
+			<label for="contact_subject">
+				&nbsp;Message Subject:
+			</label>
+			<br />
+			<input type="text" name="subject" id="contact_subject" size="30" class="inputbox" value="" />
+			<br /><br />
+			<label id="contact_textmsg" for="contact_text">
+				&nbsp;Enter your Message:
+			</label>
+			<br />
+			<textarea cols="50" rows="10" name="text" id="contact_text" class="inputbox required"></textarea>
+						<br />
+				<input type="checkbox" name="email_copy" id="contact_email_copy" value="1"  />
+				<label for="contact_email_copy">
+					E-mail a copy of this message to your own address.				</label>
+						<br />
+			<br />
+			<button class="button validate" type="submit">Send</button>
+		</div>
+
+	<input type="hidden" name="option" value="com_contact" />
+	<input type="hidden" name="view" value="contact" />
+	<input type="hidden" name="id" value="2" />
+	<input type="hidden" name="task" value="submit" />
+	<input type="hidden" name="81faa79122336fc2efa395982f405be2" value="1" />	</form>
+	<br />
+	</td>
+</tr>
+</table>
+</div>
+
+      </div>
+  <div id="left_side">
+    		<div class="moduletable_menu">
+					<h3>Main Menu</h3>
+					<ul class="menu"><li class="item1"><a href="http://www.pontiangreeks.org/"><span>Home</span></a></li><li class="item109"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=15&amp;Itemid=109"><span>Previous Featured Articles</span></a></li><li class="item71"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=14&amp;Itemid=71"><span>Lectures</span></a></li><li class="item72"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=13&amp;Itemid=72"><span>Conferences</span></a></li><li class="item110"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=16&amp;Itemid=110"><span>Media Recognition</span></a></li><li class="parent item2"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=7&amp;Itemid=2"><span>Pontian Greek History</span></a></li><li class="parent item37"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=8&amp;Itemid=37"><span>Dedications &amp; Rememberance</span></a></li><li class="parent item41"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=9&amp;Itemid=41"><span>Education</span></a></li><li class="parent item55"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=10&amp;Itemid=55"><span>Our Culture</span></a></li><li class="parent item90"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=12&amp;Itemid=90"><span>Youth Group</span></a></li></ul>		</div>
+			<div class="moduletable">
+					<p style="text-align: justify;"><img src="/images/4.jpg" title="Programme" class="caption" style="text-align: left;" /></p>
+<p style="text-align: justify;"><span style="font-size: 8pt;"><strong><span style="color: #ff0000;">October 10 &amp; 11, 2011</span></strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 8pt;"><strong><span style="color: #000000;">at the <st1:place><st1:placetype>Academy</st1:placetype> of <st1:placename>Athens</st1:placename></st1:place></span></strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 10pt;"><st1:address><span style="font-size: 8pt;"><strong><span style="color: #000000;"><st1:street>28 Panepistimiou Street</st1:street>, <st1:city>Athens</st1:city></span></strong></span></st1:address></span></p>
+<p style="text-align: justify;"><span style="font-size: 10pt;"><st1:address><st1:city><a href="/images/stories/Press_Release_en1.pdf"><span style="font-size: 8pt;"><strong><span style="color: #ff0000;">Click here</span></strong></span></a><span style="font-size: 8pt;"><strong><span style="color: #ff0000;">&nbsp;</span><span style="color: #000000;">for </span><span style="color: #000000;">PR - English</span></strong></span></st1:city></st1:address></span></p>
+<p style="text-align: justify;"><span style="font-size: 10pt;"><st1:address><st1:city><a href="/images/stories/Press_Release_gr1.pdf"><span style="font-size: 8pt;"><strong><span style="color: #ff0000;">Click here</span></strong></span></a><span style="font-size: 8pt;"><strong> <span style="color: #000000;">for PR - Greek</span></strong></span></st1:city></st1:address></span></p>		</div>
+	
+  </div>
+  <div id="footer">
+    <div class="padding">
+      <h5><a href="#">&copy; 2011</a> <a href="/"  title="Pontian Greek Society of Chicago">Pontian Greek Society of Chicago - All rights reserved <br/>P.O. Box 6127 <br/> Bloomingdale, IL 60108-6127 <br/></a> </h5>
+          </div>
+  </div>
+</div>
+
+</body>
+</html>

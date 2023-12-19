@@ -1,0 +1,314 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="joomla, Joomla" />
+  <meta name="description" content="Joomla! - the dynamic portal engine and content management system" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Home</title>
+  <link href="/index.php?option=com_content&amp;view=frontpage&amp;Itemid=53&amp;format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?option=com_content&amp;view=frontpage&amp;Itemid=53&amp;format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/bizdeveloment_red/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+<link rel="stylesheet" href="/templates/_system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="/templates/bizdeveloment_red/css/template_css.css" type="text/css" />
+
+<link rel="alternate" title="Pontian Greek Society of Chicago" href="/index2.php?option=com_rss&amp;no_html=1" type="application/rss+xml" />
+<link rel="shortcut icon" href="/templates/bizdeveloment_red/favicon.ico" />
+</head>
+<body>
+<div id="top">
+  <div class="rights">
+    <div id="search">
+      		<div class="moduletable">
+					<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+</form>		</div>
+	
+    </div>
+  </div>
+  <div class="lefts">
+    <div class="padding">
+      <h1>Pontian Greek Society of Chicago</h1>
+      <h2> Preserving the history and heritage of the Pontian Greeks</h2>
+    </div>
+  </div>
+</div>
+<div class="content">
+<div id="main">
+<div id="topmenu">
+  		<div class="moduletable">
+					<ul id="mainlevel-nav"><li><a href="/index.php?option=com_content&amp;view=frontpage&amp;Itemid=53" class="mainlevel-nav" id="active_menu-nav">Home</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=58&amp;Itemid=28" class="mainlevel-nav" >About Us</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=155&amp;Itemid=29" class="mainlevel-nav" >Features</a></li><li><a href="/index.php?option=com_content&amp;view=section&amp;id=5&amp;Itemid=18" class="mainlevel-nav" >News/Events</a></li><li><a href="/index.php?option=com_contact&amp;view=contact&amp;id=2&amp;Itemid=65" class="mainlevel-nav" >Contact Us</a></li></ul>		</div>
+	
+</div>
+
+<div id="newsflash">        
+  <div class="left">
+    <div class="padding">
+      	<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<td>
+				<table class="moduletable">
+	<tr>
+			<td>
+			<table class="contentpaneopen">
+<tr>
+	<td class="contentheading" width="100%">
+			The Great Betrayal		</td>
+</tr>
+</table>
+
+
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" colspan="2"><p><font face="Arial"><font size="3">Reissued and now available:</font> <font size="3"><strong><em><a title="" target="_blank" href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=53&amp;Itemid=73"><font size="4">The Great Betrayal</font></a></em></strong>&nbsp;- </font></font><font size="2" face="Arial">A powerful book, first published<br />
+in 1924, exposes&nbsp;</font><font face="Arial"><font size="2">how the pursuit of economic interests by the Great Powers after World War I contributed to the destruction of the Christian communities in Turkey (Asia Minor).<font color="#000000"> </font></font><a title="" target="_self" href="/index.php?option=com_contact&amp;view=contact&amp;id=2&amp;Itemid=65"><span><font size="2" color="#cc0000" face="Arial">Contact us</font></span></a><font color="#000000"><span><font face="Arial"><font size="2">&nbsp;<font color="#ffffff">to receive a copy of the book with your US$35 donation to our organization or order online at </font></font><a title="" target="_self" href="http://www.amazon.com/gp/shops/storefront/index.html?ie=UTF8&amp;marketplaceID=ATVPDKIKX0DER&amp;sellerID=A2TVK6YQ46JEWI"><font size="2" color="#890e06">Amazon.com</font></a><font size="2">. <br />
+</font></font></span></font></font></p>
+<p><font size="2" face="Arial">&nbsp;</font></p></td>
+	</tr>
+</table>
+		</td>
+		</tr>
+</table>			</td>
+		</tr>
+		</table>
+	
+    </div>
+  </div>
+</div>
+
+<div class="padding">
+<div id="mosright">
+  		<div class="moduletable">
+					<h3>Who's Online</h3>
+					 We have&nbsp;2 guests&nbsp;online		</div>
+	
+</div>
+<div id="right_side2">
+  <div class="componentheading">
+	Home</div>
+<table class="blog" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="top">
+					<div>
+		
+<table class="contentpaneopen">
+<tr>
+	
+	
+		<td align="right" width="100%" class="buttonheading">
+	<a href="/index.php?view=article&amp;id=44%3Awelcome&amp;tmpl=component&amp;print=1&amp;page=&amp;option=com_content&amp;Itemid=53" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	
+		<td align="right" width="100%" class="buttonheading">
+	<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL3d3dy5wb250aWFuZ3JlZWtzLm9yZy9pbmRleC5waHA/dmlldz1hcnRpY2xlJmlkPTQ0JTNBd2VsY29tZSZvcHRpb249Y29tX2NvbnRlbnQmSXRlbWlkPTUz" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=300,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="E-mail"  /></a>	</td>
+		</tr>
+</table>
+<table class="contentpaneopen">
+
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p align="center"><font size="3" color="#ffcc00"><em><strong><font color="#006699" face="Arial"><br />
+Welcome to the Pontian Greek Society of Chicago. <br />
+<br />The Pontian Greek Society of Chicago's mission is to promote our culture and preserve our history, with an emphasis on the tragic events that claimed the lives of an estimated 353,000 Pontian Greeks between 1914-1923</font><font color="#006699" face="Arial">.</font></strong></em></font></p><span></span>
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=44%3Awelcome&amp;Itemid=53" class="readon">
+			Society Goals</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+		</div>
+		</td>
+</tr>
+
+<tr>
+	<td valign="top">
+		<table width="100%"  cellpadding="0" cellspacing="0">
+		<tr>
+										<td valign="top" width="100%" class="article_column">
+				
+<table class="contentpaneopen">
+<tr>
+	
+	
+		<td align="right" width="100%" class="buttonheading">
+	<a href="/index.php?view=article&amp;catid=45%3Aoral-histories&amp;id=155%3Avahram-karabent-of-merzifon&amp;tmpl=component&amp;print=1&amp;page=&amp;option=com_content&amp;Itemid=53" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	
+		<td align="right" width="100%" class="buttonheading">
+	<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL3d3dy5wb250aWFuZ3JlZWtzLm9yZy9pbmRleC5waHA/dmlldz1hcnRpY2xlJmlkPTE1NSUzQXZhaHJhbS1rYXJhYmVudC1vZi1tZXJ6aWZvbiZvcHRpb249Y29tX2NvbnRlbnQmSXRlbWlkPTUz" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=300,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="E-mail"  /></a>	</td>
+		</tr>
+</table>
+<table class="contentpaneopen">
+
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="ProgId" content="Word.Document" />
+<meta name="Generator" content="Microsoft Word 12" />
+<meta name="Originator" content="Microsoft Word 12" />
+<link rel="File-List" href="file:///C:%5CUsers%5CSoula%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_filelist.xml" />
+<link rel="themeData" href="file:///C:%5CUsers%5CSoula%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_themedata.thmx" />
+<link rel="colorSchemeMapping" href="file:///C:%5CUsers%5CSoula%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_colorschememapping.xml" />
+<style></style>
+<div align="center"><font size="4" color="#0000cc" face="Arial"><strong>FEATURED ITEM OF THE MONTH</strong></font><br />
+</div>
+<p align="justify"><font size="2" color="#000000" face="Arial"><strong><br />
+<a href="/images/media_files/media/vahram%20karabent%20of%20merzifon.jpg" title=""><img style="margin-bottom: 3px; margin-right: 3px" alt="Click to Enlarge" title="Click to Enlarge" src="/images/media_files/media/vahram%20karabent%20of%20merzifon_opt%202.jpg" width="208" align="left" border="0" height="313" /></a>Vahram Karabent of Merzifon, </strong>was an Armenian citizen from the
+<st1:place>Ottoman Empire</st1:place> born in the city of
+<st1:city>
+<st1:place>Merzifon </st1:place></st1:city>in 1905.<br />
+<br />At the age of 10, Karabent witnessed the Ottoman Turkish deportation of the Armenians - four of his uncles, along with his Father and Grandfather were deported from their homes and never heard from again. Karabent along with his mother and brother, were the only members of his family to survive.<br />
+<br />In addition to the suffering of the Armenian community, Karabent also witnessed similar measures taken by the Turks against the Greek community of Merzifon, and tells of the Greek resistance to the expulsions – below are excerpts from his story:</font><font size="2" color="#000000" face="Arial"><em><br />
+<br />“At that time the Sultan was still the ruler.The Sultan issued an imperial decree saying, 'Those who become Muslims will remain!' Whether you were Armenian or Greek Orthodox, if you were willing to change your religion and become a Muslim, you would be saved. Those who refused to do so were rounded up and moved.... The government encouraged artisans and tradesmen who had necessary skills to adopt Islam and be saved. There were those who were saved in that way.”</em></font><font size="2" color="#000000" face="Arial">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="ProgId" content="Word.Document" />
+<meta name="Generator" content="Microsoft Word 12" />
+<meta name="Originator" content="Microsoft Word 12" />
+<link rel="File-List" href="file:///C:%5CUsers%5CSoula%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_filelist.xml" />
+<link rel="themeData" href="file:///C:%5CUsers%5CSoula%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_themedata.thmx" />
+<link rel="colorSchemeMapping" href="file:///C:%5CUsers%5CSoula%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_colorschememapping.xml" />
+<style></style></font><br />
+</p>
+<div align="justify"><br />
+<div align="center"><font color="#000000">Excerpts from the book <em>You Rejoice My Heart</em> by Kemal Yalcin</font></div>
+<div align="center"><font color="#000000">ISBN 978-1-903656-72-3<br />
+</font><font size="2" color="#000000" face="Arial">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Printed by Gopsons Papers Ltd, Distributed by Garod books Ltd.</p></font><font color="#000000">Permission has been obtained by Garod books to use and post excerpts from the true story of Vahram Karabent of Merzifon<br />
+<br /></font>
+<div align="justify">
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=155:vahram-karabent-of-merzifon&amp;catid=45:oral-histories&amp;Itemid=29" class="readon">
+			Read more...</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					The Pontian Greek Genocide Teaching Unit (Free Download)			</td>
+	
+	
+		<td align="right" width="100%" class="buttonheading">
+	<a href="/index.php?view=article&amp;catid=51%3Ateaching-unit&amp;id=54%3Apontian-greek-genocide&amp;tmpl=component&amp;print=1&amp;page=&amp;option=com_content&amp;Itemid=53" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	
+		<td align="right" width="100%" class="buttonheading">
+	<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL3d3dy5wb250aWFuZ3JlZWtzLm9yZy9pbmRleC5waHA/dmlldz1hcnRpY2xlJmlkPTU0JTNBcG9udGlhbi1ncmVlay1nZW5vY2lkZSZvcHRpb249Y29tX2NvbnRlbnQmSXRlbWlkPTUz" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=300,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="E-mail"  /></a>	</td>
+		</tr>
+</table>
+<table class="contentpaneopen">
+
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p align="center"><span><img title="Click below for FREE download" style="margin-bottom: 5px; width: 281px; height: 213px" alt="Click below for FREE download" src="/images/media_files/Book_images/teaching_unit.gif" width="244" align="bottom" height="171" /></span></p>
+<p align="center"><span><a title="" target="_self" href="/images/PDF-Documents/pontiangenocide.pdf">Click here for English version</a></span><span>&nbsp;&nbsp;</span></p>
+<p align="center"><span><a title="" target="_self" href="/images/PDF-Documents/pontian_genocide_final_greek_text.pdf">Click here for Greek version</a></span></p><span>
+<p align="justify">&nbsp;</p>
+<p align="justify"></p></span><span><font size="2" color="#000000" face="Arial">Created by The Pontian Greek Society of Chicago with the help of Ron Levitsky, a teacher at Sunset Ridge School in Northfield,&nbsp;Illinois, The Pontian Greek Genocide Teaching Unit introduces middle school and high school students to the tragedy of the Pontian Greeks who were subjected to the first genocide of the 20th Century. Available to download in English and in Greek.<br />
+<br /></font></span>
+<p align="justify"><font size="2" face="Arial"><font color="#000000">From 1914 to 1923, Christian minorities were forcibly expelled from their homes to comply with Turkish nationalist visions&nbsp;of an ethnically pure homeland inhabited only by Turks.&nbsp; Villages, cities, and farmlands across Pontus were emptied and the inhabitants subjected to atrocities under carefully concealed orders by government and party officials until the population exchange of 1923.</font></font></p><font size="2" face="Arial"></font>
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=54:pontian-greek-genocide&amp;catid=51:teaching-unit&amp;Itemid=74" class="readon">
+			Read more...</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					The Great Betrayal			</td>
+	
+	
+		<td align="right" width="100%" class="buttonheading">
+	<a href="/index.php?view=article&amp;catid=53%3Abooks&amp;id=47%3Athe-great-betrayal&amp;tmpl=component&amp;print=1&amp;page=&amp;option=com_content&amp;Itemid=53" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	
+		<td align="right" width="100%" class="buttonheading">
+	<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL3d3dy5wb250aWFuZ3JlZWtzLm9yZy9pbmRleC5waHA/dmlldz1hcnRpY2xlJmlkPTQ3JTNBdGhlLWdyZWF0LWJldHJheWFsJm9wdGlvbj1jb21fY29udGVudCZJdGVtaWQ9NTM=" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=300,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="E-mail"  /></a>	</td>
+		</tr>
+</table>
+<table class="contentpaneopen">
+
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p align="center"><img title="The Great Betrayal US $30 donation" style="margin-bottom: 5px; width: 167px; margin-right: 5px; height: 222px" alt="The Great Betrayal US $30 donation" src="/images/media_files/Book_images/wpThumbnails/the-great-betrayal-copy-1_opt.gif" width="117" align="bottom" height="146" /><br />
+<br /></p>
+<p align="justify"><span><font size="2" color="#000000" face="Arial">The Pontian Greek Society of Chicago with the support of the Pan-Pontian Federation of USA and Canada has reissued&nbsp;<em>The Great Betrayal</em>&nbsp;, which was originally published in 1924.&nbsp;</font></span><a title="" target="_self" href="/index.php?option=com_contact&amp;view=contact&amp;id=2&amp;Itemid=65"><span><font size="2" color="#cc0000" face="Arial"><strong>Contact us</strong></font></span></a><font size="2"><font color="#000000"><span><strong><font face="Arial">&nbsp;to receive a copy of the book with your US$35 donation to our organization or order online at <a href="http://www.amazon.com/gp/shops/storefront/index.html?ie=UTF8&amp;marketplaceID=ATVPDKIKX0DER&amp;sellerID=A2TVK6YQ46JEWI" title="" target="_self">Amazon.com</a>. <br />
+</font><br />
+</strong></span><font face="Arial">First published in 1924, author Edward Hale Bierstadt exposes the rivalries and competing economic interests of the Allied Powers in the aftermath of World War I, how the Allied Powers failed to demand from Turkey&nbsp;the protection of&nbsp;her Christian minorities, and how&nbsp;they chose, instead,&nbsp;to negotiate economic treaties with her rather than hold&nbsp;her accountable for the premeditated destruction of her own citizens. Bierstadt's account of these events&nbsp;is drawn from his experience as the Executive Secretary of the US Emergency Committee that provided humanitarian aid to Christian refugees deported by the Turkish nationalist regime. &nbsp;</font></font></font></p>
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=47:the-great-betrayal&amp;catid=53:books&amp;Itemid=73" class="readon">
+			Quotes from the Book</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+				</td>
+						</tr>
+		</table>
+	</td>
+</tr>
+
+</table>
+
+    </div>
+  <div id="left_side">
+    		<div class="moduletable_menu">
+					<h3>Main Menu</h3>
+					<ul class="menu"><li class="item1"><a href="http://www.pontiangreeks.org/"><span>Home</span></a></li><li class="parent item54"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=5&amp;Itemid=54"><span>News &amp; Events</span></a></li><li class="parent item27"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=6&amp;Itemid=27"><span>Press Room</span></a></li><li class="parent item2"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=7&amp;Itemid=2"><span>Pontian Greek History</span></a></li><li class="parent item37"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=8&amp;Itemid=37"><span>Dedications &amp; Rememberance</span></a></li><li class="parent item41"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=9&amp;Itemid=41"><span>Education</span></a></li><li class="parent item55"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=10&amp;Itemid=55"><span>Our Culture</span></a></li><li class="parent item90"><a href="/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=12&amp;Itemid=90"><span>Youth Group</span></a></li></ul>		</div>
+	
+  </div>
+  <div id="footer">
+    <div class="padding">
+      <h5><a href="#">&copy; 2009</a> <a href="/"  title="Pontian Greek Society of Chicago">Pontian Greek Society of Chicago - All rights reserved <br/>P.O. Box 6127 <br/> Bloomingdale, IL 60108-6127 <br/></a> </h5>
+          </div>
+  </div>
+</div>
+
+</body>
+</html>

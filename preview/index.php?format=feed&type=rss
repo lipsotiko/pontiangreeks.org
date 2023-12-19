@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pontian Greek Society of Chicago</title>
+		<description></description>
+		<link>http://www.pontiangreeks.org/preview/index.php/component/content/?view=featured</link>
+		<lastBuildDate>Wed, 31 Jul 2013 06:34:46 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.pontiangreeks.org/preview/index.php?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>About</title>
+			<link>http://www.pontiangreeks.org/preview/index.php/81-mega-content-demo/mega-content/87-about</link>
+			<guid isPermaLink="true">http://www.pontiangreeks.org/preview/index.php/81-mega-content-demo/mega-content/87-about</guid>
+			<description><![CDATA[<p><img style="padding: 2px; border: 1px solid #cccccc; margin-right: 15px; float: left;" src="http://www.pontiangreeks.org/preview/images/about.jpg" alt="about" width="185" height="78" /> Quisque eleLorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin sed odio et ante adipiscing lobortis. Quisque eleifend, arcu a dictum varius, risus neque venenatis arcu, a semper massa mi eget ipsum. Proin sed odio et ante adipiscing lobortis. Lorem ipsum dolor sit amet, consectetue elit. Quisque eleLorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin sed odio et ante adipiscing lobortis.</p>
+<p>Proin sed odio et ante adipiscing lobortis. Quisque eleLorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin sed odio et ante adipiscing lobortis.</p>
+]]></description>
+			<author>charles@bovalis.net (Super User)</author>
+			<category>Featured</category>
+			<category>Mega content</category>
+			<category>Mega content demo</category>
+			<pubDate>Mon, 21 Feb 2011 07:15:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>Lorem ipsum dolor sit amet, consectetue elit</title>
+			<link>http://www.pontiangreeks.org/preview/index.php/81-mega-content-demo/mega-content/71-lorem-ipsum-dolor-sit-amet-consectetue-elit</link>
+			<guid isPermaLink="true">http://www.pontiangreeks.org/preview/index.php/81-mega-content-demo/mega-content/71-lorem-ipsum-dolor-sit-amet-consectetue-elit</guid>
+			<description><![CDATA[<p><img src="http://www.pontiangreeks.org/preview/images/2.jpg" border="0" alt="Adipisicing elitsed do eiusmod" width="140px;" style="float: left; margin-right: 15px; padding: 2px; border: 1px #ccc solid;" /> Lorem ipsum dolor sit amet, consectetue elit.   Quisque eleLorem ipsum dolor sit amet, consectetuer adipiscing elit.  Proin sed odio et ante adipiscing lobortis.</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin sed  odio et ante adipiscing lobortis.</p>
+<p>Quisque eleLorem ipsum dolor sit amet,  consectetuer adipiscing elit. Proin sed odio et ante adipiscing  lobortis.</p>
+]]></description>
+			<author>charles@bovalis.net (Super User)</author>
+			<category>Featured</category>
+			<category>Mega content</category>
+			<category>Mega content demo</category>
+			<pubDate>Sat, 19 Feb 2011 02:43:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>Psum dolor sit amet consectetue elit.</title>
+			<link>http://www.pontiangreeks.org/preview/index.php/81-mega-content-demo/mega-content/70-psum-dolor-sit-amet-consectetue-elit</link>
+			<guid isPermaLink="true">http://www.pontiangreeks.org/preview/index.php/81-mega-content-demo/mega-content/70-psum-dolor-sit-amet-consectetue-elit</guid>
+			<description><![CDATA[<p><img src="http://www.pontiangreeks.org/preview/images/1.jpg" border="0" alt="Adipisicing" width="140px;" style="float: left; margin-right: 15px; padding: 2px; border: 1px #ccc solid;" /> Psum dolor sit amet, consectetue elit.   Quisque eleLorem ipsum dolor sit amet, consectetuer adipiscing elit.  Proin sed odio et ante adipiscing lobortis.</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin sed  odio et ante adipiscing lobortis.</p>
+<p>Quisque eleLorem ipsum dolor sit amet,  consectetuer adipiscing elit. Proin sed odio et ante adipiscing  lobortis.</p>
+]]></description>
+			<author>charles@bovalis.net (Super User)</author>
+			<category>Featured</category>
+			<category>Mega content</category>
+			<category>Mega content demo</category>
+			<pubDate>Sat, 19 Feb 2011 02:29:09 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
