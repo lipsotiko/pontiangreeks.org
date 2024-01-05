@@ -1,0 +1,17 @@
+{
+  "name": "pontiangreeks.org",
+  "version": "1.0.0",
+  "description": "Pontian Society of Chicago \"Xeniteas\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server",
+    "lint": "npx prettier . --write",
+    "lint:check": "npx prettier . --check"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.1.1",
+    "http-server": "^14.1.1"
+  }
+}

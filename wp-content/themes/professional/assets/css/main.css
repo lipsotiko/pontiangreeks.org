@@ -28,7 +28,7 @@
 /* --------------- Color Variables ------------------------- */
 /* ---------------- Font Variables ------------------------- */
 .site-title-font {
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
 }
 .body-font {
   font-family: "Noto Sans", sans-serif;
@@ -65,7 +65,9 @@ a:hover {
 #top-bar {
   border-bottom: solid 1px #eee;
   margin-bottom: 10px;
-  background: url(../images/pattern2.png) repeat, #ffffff;
+  background:
+    url(../images/pattern2.png) repeat,
+    #ffffff;
 }
 #top-bar #social-icons {
   padding-top: 4px;
@@ -82,7 +84,9 @@ a:hover {
   width: 27px;
   height: 27px;
   margin-right: 2px;
-  transition: 0.4s opacity ease, 0.9s -webkit-transform ease;
+  transition:
+    0.4s opacity ease,
+    0.9s -webkit-transform ease;
 }
 #top-bar #social-icons a:hover {
   background-position-y: 27px;
@@ -112,7 +116,7 @@ a:hover {
   padding-top: 7px;
   margin-right: 30px;
 }
-#top-bar .search-form-top input[type=text] {
+#top-bar .search-form-top input[type="text"] {
   border-radius: 0px;
   border-color: #c4c4c4;
   padding-left: 10px;
@@ -163,7 +167,7 @@ a:hover {
   position: relative;
 }
 #masthead .site-title {
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
   position: relative;
   transition: 0.7s all ease;
   -webkit-transition: 0.7s all ease;
@@ -260,7 +264,7 @@ a:hover {
   height: 2px;
   opacity: 0;
   background: #ad4f18;
-  content: '';
+  content: "";
   transition: 0.3s all ease;
   -webkit-transition: 0.3s all ease;
   -moz-transition: 0.3s all ease;
@@ -279,7 +283,7 @@ a:hover {
 }
 @media screen and (max-width: 600px) {
   #top-nav h1.menu-toggle {
-    font-family: 'Michroma', Arial, sans-serif;
+    font-family: "Michroma", Arial, sans-serif;
     font-size: 18px;
     text-transform: uppercase;
     margin-bottom: 15px;
@@ -488,7 +492,7 @@ a:hover {
   }
 }
 #showcase .showcase figure .showcase-caption .showcase-caption-title {
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
   font-size: 17px;
 }
 #showcase .showcase figure .showcase-caption .showcase-caption-desc {
@@ -496,7 +500,7 @@ a:hover {
   font-weight: lighter;
 }
 #showcase .showcase figure:hover .showcase-caption {
-  opacity: 1.0;
+  opacity: 1;
   transform: rotateX(0deg);
   -webkit-transform: rotateX(0deg);
   -moz-transform: rotateX(0deg);
@@ -541,7 +545,7 @@ a:hover {
 }
 #home-title {
   margin-top: -3px;
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
   font-size: 22px;
   margin-bottom: 30px;
   margin-left: -15px;
@@ -572,7 +576,7 @@ a:hover {
 #primary article .after-thumb h1.entry-title {
   margin-top: 4px;
   margin-bottom: 0px;
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
 }
 #primary .entry-content {
   margin-top: 0.3em;
@@ -588,7 +592,7 @@ a:hover {
   margin-bottom: 3px;
 }
 #primary article.grid h1.entry-title {
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
   font-size: 16px;
   margin-top: 12px;
   margin-bottom: 12px;
@@ -671,7 +675,11 @@ a:hover {
   pointer-events: none;
   -webkit-transform: translateY(0%);
   transform: translateY(0%);
-  background: linear-gradient(to bottom, rgba(72, 76, 97, 0) 0%, rgba(72, 76, 97, 0.6) 75%);
+  background: linear-gradient(
+    to bottom,
+    rgba(72, 76, 97, 0) 0%,
+    rgba(72, 76, 97, 0.6) 75%
+  );
   z-index: 1;
 }
 #primary article.grid2 .featured-thumb:hover:before {
@@ -712,7 +720,7 @@ a:hover {
   line-height: 1.5em;
 }
 #primary article.grid2 .out-thumb .readmore {
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
   text-align: right;
   font-size: 13px;
   margin-top: 10px;
@@ -737,7 +745,7 @@ a:hover {
   margin-top: -25px;
 }
 #primary-mono h1.entry-title {
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
   font-size: 32px;
 }
 #primary-mono .entry-meta {
@@ -784,7 +792,7 @@ a:hover {
   background: #eee;
   color: black;
   font-weight: bold;
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
 }
 #primary-mono article.page h1.entry-title {
   border-bottom: solid 2px #ad4f18;
@@ -795,37 +803,10 @@ a:hover {
   background: url(../images/pattern2.png);
   padding: 10px 15px;
   display: inline-block;
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: normal;
-}
-#secondary {
-  margin-top: -20px;
-  font-size: 13px;
-}
-#secondary h1.widget-title {
-  font-size: 15px;
-  border-bottom: solid 2px #ad4f18;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 5px;
-  text-transform: uppercase;
-  background: url(../images/pattern2.png);
-  font-family: 'Michroma', Arial, sans-serif;
-  font-weight: normal;
-}
-#secondary a {
-  color: #ad4f18;
-}
-#secondary a:hover {
-  color: #929292;
-}
-#secondary ul {
-  margin-left: 20px;
-}
-#secondary ul ul {
-  margin-left: 5px;
 }
 article table {
   border: solid 1px #eee;
@@ -844,7 +825,7 @@ article table td {
 article h1,
 article h2,
 article h3 {
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
 }
 /* --------------- archives -------------- */
 .archive section#primary h1.page-title {
@@ -856,7 +837,7 @@ article h3 {
   background: url(../images/pattern2.png);
   padding: 10px 15px;
   display: inline-block;
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: normal;
@@ -895,8 +876,8 @@ article h3 {
 .pagination .current {
   background: #bfbfbf;
 }
-.pagination ul  > li  > a,
-.pagination ul  > li  > span {
+.pagination ul > li > a,
+.pagination ul > li > span {
   float: left;
   padding: 4px 12px;
   line-height: 20px;
@@ -907,16 +888,16 @@ article h3 {
   display: inline-block;
   color: #86593f;
 }
-.pagination ul  > li:first-child  > a,
-.pagination ul  > li:first-child  > span {
+.pagination ul > li:first-child > a,
+.pagination ul > li:first-child > span {
   border-left-width: 1px;
 }
-.pagination ul  > li:last-child  > a,
-.pagination ul  > li:last-child  > span {
+.pagination ul > li:last-child > a,
+.pagination ul > li:last-child > span {
   border-rigth-width: 1px;
 }
 /* --------------- comments -------------- */
-#respond input[type=text] {
+#respond input[type="text"] {
   max-width: 450px;
 }
 #comments {
@@ -924,7 +905,7 @@ article h3 {
 }
 #comments h2.comments-title {
   font-size: x-large;
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
 }
 #comments ol.comment-list {
   list-style: none;
@@ -968,13 +949,15 @@ article h3 {
 #footer-sidebar {
   border-top: solid 5px #ad4f18;
   padding-top: 20px;
-  background: url(../images/pattern2.png) top left repeat-x, #f9f9f9;
+  background:
+    url(../images/pattern2.png) top left repeat-x,
+    #f9f9f9;
   margin-top: 30px;
   padding-bottom: 50px;
 }
 #footer-sidebar h1.widget-title {
   font-weight: bold;
-  font-family: 'Michroma', Arial, sans-serif;
+  font-family: "Michroma", Arial, sans-serif;
   font-size: 20px;
   color: #9b4716;
   margin-bottom: 20px;
