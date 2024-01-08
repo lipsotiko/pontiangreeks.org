@@ -61,7 +61,7 @@
 
 ## Local Development
 
-Running the web server: `npm start`
+Running the web server: `npm run dev`
 
 Linting:
 - `npm run lint:check`
