@@ -24,7 +24,9 @@
               <IDropdownItem to="/history/dialect">Dialect</IDropdownItem>
               <IDropdownItem to="/history/poems">Poems</IDropdownItem>
               <IDropdownItem to="/history/dances">Dances</IDropdownItem>
-              <IDropdownItem to="/history/oral-stories">Oral Stories</IDropdownItem>
+              <IDropdownItem to="/history/oral-stories"
+                >Oral Stories</IDropdownItem
+              >
             </template>
           </IDropdown>
           <IDropdown events="hover" size="sm" :hoverHideDelay="0">
@@ -33,7 +35,7 @@
               <IDropdownItem to="/youth-group/dance-troups"
                 >Dance Troups</IDropdownItem
               >
-              <IDropdownItem to="/youth-group/youth-news">Religion</IDropdownItem>
+              <IDropdownItem to="/youth-group/youth-news">News</IDropdownItem>
               <IDropdownItem to="/youth-group/photo-gallery"
                 >Photo Gallery</IDropdownItem
               >
