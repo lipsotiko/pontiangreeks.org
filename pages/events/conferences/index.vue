@@ -102,3 +102,8 @@
   margin-bottom: 8px;
 }
 </style>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Conferences | %s",
+});
+</script>

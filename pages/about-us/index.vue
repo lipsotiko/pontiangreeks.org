@@ -156,3 +156,8 @@
     </div>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "About Us | %s",
+});
+</script>

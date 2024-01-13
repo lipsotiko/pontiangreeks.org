@@ -189,6 +189,11 @@
     </ILayout>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Book Store | %s",
+});
+</script>
 <style scoped>
 img {
   width: 100%;

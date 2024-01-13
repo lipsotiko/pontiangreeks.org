@@ -15,3 +15,8 @@
     </div>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Contact Us | %s",
+});
+</script>

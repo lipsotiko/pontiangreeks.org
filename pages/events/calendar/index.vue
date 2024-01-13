@@ -11,3 +11,8 @@
     ></iframe>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Calendar | %s",
+});
+</script>

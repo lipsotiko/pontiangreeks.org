@@ -100,3 +100,8 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Grigoris Lipiridis | %s",
+});
+</script>

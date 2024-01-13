@@ -132,3 +132,8 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Thea Kereki | %s",
+});
+</script>

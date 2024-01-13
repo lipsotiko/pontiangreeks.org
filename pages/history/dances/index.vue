@@ -53,3 +53,8 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Dances | %s",
+});
+</script>

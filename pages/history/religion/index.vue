@@ -66,3 +66,8 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Religion | %s",
+});
+</script>
