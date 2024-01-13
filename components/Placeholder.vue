@@ -25,7 +25,7 @@ export default {
     },
     display: {
       default: "inline",
-    }
-  }
+    },
+  },
 };
 </script>

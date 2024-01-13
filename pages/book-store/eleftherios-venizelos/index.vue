@@ -2,12 +2,12 @@
   <IContainer>
     <SectionHeader>Eleftherios Venizelos</SectionHeader>
     <article>
-      <p>
-        <Placeholder height="300px" width="200px" float="left" />
-        <!-- <img
+      <Placeholder height="300px" width="200px" float="left" />
+      <!-- <img
                   src="~/assets/images/2016/10/eleftherios-venizelos-200x300.jpg"
                   alt="eleftherios-venizelos"
                 /> -->
+      <p>
         Eleftherios Venizelos, like all complex phenomena, is not easily
         definable. It is impossible to compare him to some model because he is
         unique.
@@ -57,3 +57,8 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Eleftherios Venizelos | %s",
+});
+</script>

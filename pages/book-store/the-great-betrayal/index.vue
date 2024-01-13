@@ -2,15 +2,15 @@
   <IContainer>
     <SectionHeader>The Great Betrayal</SectionHeader>
     <div class="entry-content">
-      <p>
-        <Placeholder height="300px" width="200px" float="left" />
-        <!-- <img
+      <Placeholder height="300px" width="200px" float="left" />
+      <!-- <img
           src="~/assets/images/2016/10/The-Great-Betrayal-208x300.jpg"
           alt="the-great-betrayal"
           width="208"
           height="300"
           class="alignleft size-medium wp-image-464"
         /> -->
+      <p>
         The Great Betrayal: Economic Imperialism &#038; the Destruction of
         Christian Communities in Asia Minor by Edward Hale Bierstadt.
       </p>
@@ -67,3 +67,8 @@
     </div>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "The Great Betrayal | %s",
+});
+</script>

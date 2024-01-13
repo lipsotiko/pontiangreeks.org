@@ -422,6 +422,11 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Chrysanthos Philippidis | %s",
+});
+</script>
 <style scoped>
 .inline-img {
   display: inline;

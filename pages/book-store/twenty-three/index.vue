@@ -2,22 +2,17 @@
   <IContainer>
     <SectionHeader>Twenty Three</SectionHeader>
     <article>
-      <p>
-        <Placeholder height="300px" width="200px" float="left" />
-        <!-- <img
+      <Placeholder height="300px" width="200px" float="left" />
+      <!-- <img
           src="~/assets/images/2016/10/twenty-three-200x300.jpg"
           alt="twenty-three"
         /> -->
+      <p>
         The Pontian Greek Society of Chicago with the support of the Pan-Pontian
         Federation of USA and Canada has re-printed Twenty-Three Years in Asia
         Minor (1899-1922), which was originally published in 1969.
       </p>
       <p><strong>Description</strong></p>
-      <p>
-        The Pontian Greek Society of Chicago with the support of the Pan-Pontian
-        Federation of USA and Canada has re-printed Twenty-Three Years in Asia
-        Minor (1899-1922), which was originally published in 1969.
-      </p>
       <p>
         Author Efthimios N. Couzinos, a member of Turkey&#8217;s ill-fated Greek
         minority who later adopted the United States as his home, provides a
@@ -55,3 +50,8 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Twenty Three | %s",
+});
+</script>

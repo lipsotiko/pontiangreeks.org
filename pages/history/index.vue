@@ -27,3 +27,8 @@
     </ILayout>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "History | %s",
+});
+</script>

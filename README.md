@@ -108,4 +108,6 @@ Linting:
 - `deplpoy.sh preview`
   - Deploys to the preview site: http://pontiangreeks.preview.s3-website.us-east-2.amazonaws.com
 - `deplpoy.sh`
-  - Seploys to the production site: http://pontiangreeks.s3-website.us-east-2.amazonaws.com
+  - Deploys to the production site:
+  * http://pontiangreeks.s3-website.us-east-2.amazonaws.com
+  * https://www.pontiangreeks.org

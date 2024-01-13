@@ -155,3 +155,8 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Christos Iliadis | %s",
+});
+</script>

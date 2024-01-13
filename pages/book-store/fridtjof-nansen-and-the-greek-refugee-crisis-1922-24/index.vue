@@ -4,12 +4,12 @@
       >Fridtjof Nansen and the Greek Refugee Crisis 1922-24</SectionHeader
     >
     <article>
-      <p>
-        <Placeholder height="300px" width="200px" float="left" />
-        <!-- <img
+      <Placeholder height="300px" width="200px" float="left" />
+      <!-- <img
           src="~/assets/images/2016/10/the-greek-refugee-crisis-200x300.jpg"
           alt="the-greek-refugee-crisis"
         /> -->
+      <p>
         This is an impeccably written and carefully researched study by a
         prominent political scientist, Harry Psomiades.
       </p>
@@ -58,3 +58,8 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Fridtjof Nansen | %s",
+});
+</script>

@@ -352,3 +352,8 @@ img {
   margin: 12px;
 }
 </style>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Chronology | %s",
+});
+</script>

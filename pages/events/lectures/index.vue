@@ -7,7 +7,6 @@
           <tr>
             <td style="width: 320px">
               <img
-                class="alignnone size-medium wp-image-644"
                 src="~/assets/images/2017/05/Refugee-Crisis-300x199.jpg"
                 alt="refugee-crisis"
                 width="300"
@@ -234,3 +233,13 @@
     </div>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Lectures | %s",
+});
+</script>
+<style scoped>
+img {
+  margin: 12px;
+}
+</style>

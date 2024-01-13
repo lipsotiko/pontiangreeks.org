@@ -107,3 +107,8 @@ img {
   margin: 12px;
 }
 </style>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Vahram Karabent of Marzifon | %s",
+});
+</script>

@@ -80,3 +80,8 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Poems | %s",
+});
+</script>

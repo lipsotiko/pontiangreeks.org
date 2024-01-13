@@ -13,7 +13,7 @@ export default defineNuxtConfig({
   },
   inkline: {
     globals: {
-      colorMode: 'light'
-    }
-  }
+      colorMode: "light",
+    },
+  },
 });

@@ -4,12 +4,12 @@
       The Asia Minor Catastrophe and the Ottoman Greek Genocide
     </SectionHeader>
     <article>
-      <p>
-        <Placeholder height="300px" width="200px" float="left" />
-        <!-- <img
+      <Placeholder height="300px" width="200px" float="left" />
+      <!-- <img
           src="~/assets/images/2016/10/the-asia-minor-catastrophe-200x300.jpg"
           alt="the-asia-minor-catastrophe"
         /> -->
+      <p>
         This book adds important new historical information and theoretical
         analysis to our understanding<br />
         of both the specific fate of Greeks in the late Ottoman Empire.
@@ -60,3 +60,8 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "The Asia Minor Catastrophe | %s",
+});
+</script>

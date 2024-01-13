@@ -99,11 +99,6 @@
     </IContainer>
   </div>
 </template>
-<script setup lang="ts">
-useHead({
-  titleTemplate: "Home | %s",
-});
-</script>
 <style scoped>
 .news-item img {
   width: 100%;

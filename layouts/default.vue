@@ -15,13 +15,17 @@
                 <template #body>
                   <IDropdownItem to="/events/calendar">Calendar</IDropdownItem>
                   <IDropdownItem to="/events/lectures">Lectures</IDropdownItem>
-                  <IDropdownItem to="/events/conferences">Conferences</IDropdownItem>
+                  <IDropdownItem to="/events/conferences"
+                    >Conferences</IDropdownItem
+                  >
                 </template>
               </IDropdown>
               <IDropdown events="hover" size="sm" :hoverHideDelay="0">
                 <INavItem stopPropagation>History</INavItem>
                 <template #body>
-                  <IDropdownItem to="/history/chronology">Chronology</IDropdownItem>
+                  <IDropdownItem to="/history/chronology"
+                    >Chronology</IDropdownItem
+                  >
                   <IDropdownItem to="/history/religion">Religion</IDropdownItem>
                   <IDropdownItem to="/history/dialect">Dialect</IDropdownItem>
                   <IDropdownItem to="/history/poems">Poems</IDropdownItem>
@@ -37,7 +41,9 @@
                   <IDropdownItem to="/youth-group/dance-troups"
                     >Dance Troups</IDropdownItem
                   >
-                  <IDropdownItem to="/youth-group/youth-news">News</IDropdownItem>
+                  <IDropdownItem to="/youth-group/youth-news"
+                    >News</IDropdownItem
+                  >
                   <IDropdownItem to="/youth-group/photo-gallery"
                     >Photo Gallery</IDropdownItem
                   >
@@ -117,7 +123,8 @@
                 Bloomingdale, IL 60108-6127<br /><br />
 
                 Email:
-                <a href="mailto:info@pontiangreeks.org">info@pontiangreeks.org</a
+                <a href="mailto:info@pontiangreeks.org"
+                  >info@pontiangreeks.org</a
                 ><br />
                 <a href="http://www.pontiangreeks.org"
                   >http://www.pontiangreeks.org</a

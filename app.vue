@@ -78,7 +78,7 @@ li {
   --navbar--light--item--hover--background: rgb(238, 238, 238);
   --navbar--light--collapsed--background: white;
   --navbar--collapsed--item--background: white;
-  --navbar--collapsed--item--hover--background: rgb(238, 238, 238);;
+  --navbar--collapsed--item--hover--background: rgb(238, 238, 238);
   --navbar--item--hover--color: #ad4f18;
 }
 

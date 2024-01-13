@@ -91,3 +91,8 @@
     </article>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Dialect | %s",
+});
+</script>

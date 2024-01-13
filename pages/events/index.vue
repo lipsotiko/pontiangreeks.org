@@ -16,3 +16,8 @@
     </ILayout>
   </IContainer>
 </template>
+<script setup lang="ts">
+useHead({
+  titleTemplate: "Events | %s",
+});
+</script>
