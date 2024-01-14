@@ -10,7 +10,6 @@
       <p>
         Email:
         <a href="mailto:info@pontiangreeks.org">info@pontiangreeks.org</a><br />
-        <a href="http://www.pontiangreeks.org">http://www.pontiangreeks.org</a>
       </p>
     </div>
   </IContainer>

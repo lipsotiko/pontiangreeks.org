@@ -5,7 +5,7 @@
 </template>
 <script setup lang="ts">
 useHead({
-  title: 'Pontian Greek Society of Chicago "Xeneteas"',
+  title: 'Pontian Greek Society of Chicago \"Xeneteas\"',
 });
 </script>
 <style lang="scss">
@@ -87,7 +87,9 @@ li {
 }
 
 .navbar .collapse-toggle {
-  float: right;
+  position: absolute;
+  right: 18px;
+  top: 36px;
 }
 
 @font-face {

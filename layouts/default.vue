@@ -62,80 +62,81 @@
         <ILayout class="footer-sections">
           <IRow>
             <IColumn md="6" lg="3">
-              <h4>Support Us</h4>
-              <form
-                action="https://www.paypal.com/donate"
-                method="post"
-                target="_top"
-              >
-                <input type="hidden" name="business" value="FMY3M8BSTUL4U" />
-                <input type="hidden" name="no_recurring" value="0" />
-                <input type="hidden" name="currency_code" value="USD" />
-                <input
-                  type="image"
-                  src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
-                  border="0"
-                  name="submit"
-                  title="PayPal - The safer, easier way to pay online!"
-                  alt="Donate with PayPal button"
-                />
-              </form>
-            </IColumn>
-            <IColumn md="6" lg="3">
-              <h4>Follow Us</h4>
-              <p>
-                <a href="https://www.facebook.com/groups/32039846607/">
-                  <img src="~/assets/images/2016/10/facebook.png" />
-                </a>
-              </p>
-            </IColumn>
-            <IColumn md="6" lg="3">
-              <h4>Quick Links</h4>
-              <ul>
-                <li>
-                  <a href="/">Home</a>
-                </li>
-                <li>
-                  <a href="/about-us/">About Us</a>
-                </li>
-                <li>
-                  <a href="/events/">Events</a>
-                </li>
-                <li>
-                  <a href="/history/">History</a>
-                </li>
-                <li>
-                  <a href="/youth-group/">Youth Group</a>
-                </li>
-                <li>
-                  <a href="/book-store/">Book Store</a>
-                </li>
-                <li>
-                  <a href="/contact-us/">Contact Us</a>
-                </li>
-              </ul>
-            </IColumn>
-            <IColumn md="6" lg="3">
-              <h4>Contact Us</h4>
-              <p>
-                Pontian Greek Society of Chicago<br />
-                P.O. Box 6127<br />
-                Bloomingdale, IL 60108-6127<br /><br />
-
-                Email:
-                <a href="mailto:info@pontiangreeks.org"
-                  >info@pontiangreeks.org</a
-                ><br />
-                <a href="http://www.pontiangreeks.org"
-                  >http://www.pontiangreeks.org</a
+              <div class="footer-section">
+                <h4>Support Us</h4>
+                <form
+                  action="https://www.paypal.com/donate"
+                  method="post"
+                  target="_top"
                 >
-              </p>
+                  <input type="hidden" name="business" value="FMY3M8BSTUL4U" />
+                  <input type="hidden" name="no_recurring" value="0" />
+                  <input type="hidden" name="currency_code" value="USD" />
+                  <input
+                    type="image"
+                    src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
+                    border="0"
+                    name="submit"
+                    title="PayPal - The safer, easier way to pay online!"
+                    alt="Donate with PayPal button"
+                  />
+                </form>
+              </div>
+            </IColumn>
+            <IColumn md="6" lg="3">
+              <div class="footer-section">
+                <h4>Follow Us</h4>
+                <p>
+                  <a href="https://www.facebook.com/groups/32039846607/">
+                    <img src="~/assets/images/2016/10/facebook.png" />
+                  </a>
+                </p>
+              </div>
+            </IColumn>
+            <IColumn md="6" lg="3">
+              <div class="footer-section">
+                <h4>Quick Links</h4>
+                <ul>
+                  <li>
+                    <a href="/">Home</a>
+                  </li>
+                  <li>
+                    <a href="/about-us/">About Us</a>
+                  </li>
+                  <li>
+                    <a href="/events/">Events</a>
+                  </li>
+                  <li>
+                    <a href="/history/">History</a>
+                  </li>
+                  <li>
+                    <a href="/youth-group/">Youth Group</a>
+                  </li>
+                  <li>
+                    <a href="/book-store/">Book Store</a>
+                  </li>
+                  <li>
+                    <a href="/contact-us/">Contact Us</a>
+                  </li>
+                </ul>
+              </div>
+            </IColumn>
+            <IColumn md="6" lg="3">
+              <div class="footer-section">
+                <h4>Contact Us</h4>
+                <p>
+                  Pontian Greek Society of Chicago<br />
+                  P.O. Box 6127<br />
+                  Bloomingdale, IL 60108-6127<br /><br />
+                </p>
+                <Email />
+              </div>
             </IColumn>
           </IRow>
         </ILayout>
         <p class="copyright">
-          Copyright © {{ new Date().getFullYear() }} Pontian Greek Society of
-          Chicago
+          Copyright © {{ new Date().getFullYear() }} <br />
+          Pontian Greek Society of Chicago
         </p>
       </ILayoutFooter>
     </ILayout>
@@ -154,6 +155,10 @@
   margin-top: 22px;
   padding: 28px;
   border-top: solid 2px $primary;
+}
+
+.footer-section {
+  min-height: 128px;
 }
 
 .light-theme .footer-sections {
