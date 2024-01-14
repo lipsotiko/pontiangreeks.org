@@ -124,12 +124,7 @@
             <IColumn md="6" lg="3">
               <div class="footer-section">
                 <h4>Contact Us</h4>
-                <p>
-                  Pontian Greek Society of Chicago<br />
-                  P.O. Box 6127<br />
-                  Bloomingdale, IL 60108-6127<br /><br />
-                </p>
-                <Email />
+                <XeniteasContact />
               </div>
             </IColumn>
           </IRow>

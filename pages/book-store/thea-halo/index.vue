@@ -2,11 +2,7 @@
   <IContainer>
     <SectionHeader>Thea Halo</SectionHeader>
     <article>
-      <Placeholder height="300px" width="200px" float="left" />
-      <!-- <img
-          src="~/assets/images/2016/10/theia-halo-200x300.jpg"
-          alt="theia-halo"
-        /> -->
+      <img src="~/assets/images/placeholder_200x300.jpg" alt="theia-halo" />
       <p>
         The story of Sano Halo&#8217;s survival of the death march, at age ten,
         that annihilated her family.
@@ -53,3 +49,10 @@ useHead({
   titleTemplate: "Thea Halo | %s",
 });
 </script>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>

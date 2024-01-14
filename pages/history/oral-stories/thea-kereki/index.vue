@@ -3,10 +3,7 @@
     <SectionHeader>Thea Kereki</SectionHeader>
     <article>
       <div>
-        <Placeholder height="300px" width="234px" float="left" />
-        <!-- <img
-                  src="~/assets/images/2016/10/Thea-Kereki-259x300.jpg"
-                  alt="thea-kereki"/> -->
+        <img src="~/assets/images/placeholder_200x300.jpg" alt="thea-kereki" />
         <p>
           The article,Ή θεία Κερέκη,was translated by Professor Eleni Phufas of
           Erie Community College, Buffalo, NY. Itis published here with the
@@ -137,3 +134,10 @@ useHead({
   titleTemplate: "Thea Kereki | %s",
 });
 </script>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>

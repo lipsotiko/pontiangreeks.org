@@ -8,11 +8,10 @@
         Illinois
       </p>
       <p>Keynote Speaker George Shirinian opened the first session.</p>
-      <!-- <img 
-        src="~/assets/images/2016/04/conference2-300x200-300x200.jpg" 
+      <img
+        src="~/assets/images/placeholder_300x200.jpg"
         alt="conference2-300x200"
-        /> -->
-      <Placeholder height="200px" width="300px" float="left" />
+      />
       <p>
         <strong
           >“The Armenian Genocide: A Model for the Study of Persecuted
@@ -240,11 +239,10 @@
       </p>
       <br />
       <p>Opening Statements from other panelists included:</p>
-      <Placeholder height="200px" width="300px" float="left" />
-      <!-- <img 
-        src="~/assets/images/2016/04/Dr.-H.-Psomiades-300x200-300x200.jpg" 
-        alt="dr-h-psomiades-300x200" 
-        /> -->
+      <img
+        src="~/assets/images/placeholder_300x200.jpg"
+        alt="dr-h-psomiades-300x200"
+      />
       <p>
         <strong>Dr. Harry Psomiades:</strong>
         We are fortunate that much of the groundwork for the study of genocide
@@ -278,11 +276,7 @@
         after World War I.
       </p>
       <p>&nbsp;</p>
-      <Placeholder height="200px" width="300px" float="left" />
-      <!-- <img 
-        src="~/assets/images/2016/04/conference6-300x200.jpg" 
-        alt="conference6"
-        /> -->
+      <img src="~/assets/images/placeholder_300x200.jpg" alt="conference6" />
       <p>
         <strong> Dr. Theofanis Stavrou: </strong>
         <em
@@ -312,11 +306,11 @@
       </p>
       <p>&nbsp;</p>
       <br />
-      <Placeholder height="200px" width="300px" float="left" />
-      <!-- <img
-        src="~/assets/images/2016/04/conference7-300x200-1-300x200.jpg" 
-        alt="conference7-300x200" /> 
-      -->
+      <img
+        src="~/assets/images/placeholder_300x200.jpg"
+        alt="conference7-300x200"
+      />
+
       <p>
         <strong>Dr. William Samonides:</strong>
         He came to Pontian studies reluctantly—he was not aware of it and mostly
@@ -344,11 +338,10 @@
         of our shared humanity and shared inhumanity.
       </p>
       <p>&nbsp;</p>
-      <Placeholder height="200px" width="300px" float="left" />
-      <!-- <img 
-        src="~/assets/images/2016/04/conference8-300x200-1-300x200.jpg" 
-        alt="conference8-300x200" 
-        /> -->
+      <img
+        src="~/assets/images/placeholder_300x200.jpg"
+        alt="conference8-300x200"
+      />
       <p>
         <strong>Professor Eleni Phufas:</strong>
         Her background is Arcadian, not Pontian, so she came to the topic
@@ -937,11 +930,7 @@
         English speakers. These were valuable and useful. The responsibility
         falls on the Greek government and Ministry of Education to do this.
       </p>
-      <Placeholder height="200px" width="300px" float="left" />
-      <!-- <img 
-        src="~/assets/images/2016/04/100_0620-300x225-300x225.jpg" 
-        alt="100_0620-300x225" 
-        /> -->
+      <img src="~/assets/images/placeholder_300x200.jpg" />
       <p>
         <strong>Dr. Stavrou</strong>: Don't expect the Greek government to do
         this. The Ministry of Education pays only $2,500 to a translator; no one
@@ -986,3 +975,10 @@
     </article>
   </IContainer>
 </template>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>

@@ -11,21 +11,19 @@
         <div id="chronology">
           <p>
             <strong>10th -12th Century</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/ottoman-turks-10th-century.jpg" 
-              alt="ottoman-turks-10th-century" 
-              /> -->
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
+              alt="ottoman-turks-10th-century"
+            />
             Ottoman Turks migrate from central Asia to Asia Minor
           </p>
           <hr />
           <p>
             <strong>1204</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/crusaders-constantinople-1204.jpg" 
-              alt="crusaders-constantinople-1204" 
-              /> -->
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
+              alt="crusaders-constantinople-1204"
+            />
             Fourth Crusade; Crusaders capture Constantinople and sack
             Constantinople; Greek Empire of Trebizond established in the region
             of Pontus on the Black Sea
@@ -33,11 +31,10 @@
           <hr />
           <p>
             <strong>1299</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/ottoman-state-formation-1299.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="ottoman-state-formation-1299"
-              /> -->
+            />
             Formation of Ottoman State
           </p>
           <hr />
@@ -53,11 +50,10 @@
           <hr />
           <p>
             <strong>1458-1460</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/turks-occupy-greece-1458.jpg" 
-              alt="turks-occupy-greece-1458" 
-              /> -->
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
+              alt="turks-occupy-greece-1458"
+            />
             Turks occupy mainland Greece
           </p>
           <hr />
@@ -73,11 +69,10 @@
           <hr />
           <p>
             <strong>17th &amp; 18th Centuries</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/forced-conversion-to-islam-17th-century.jpg" 
-              alt="forced-conversion-to-islam-17th-century"  
-              /> -->
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
+              alt="forced-conversion-to-islam-17th-century"
+            />
             250,000 Pontian Greeks forced to convert to Islam; Thousands of
             Pontian Greeks depart for Russia, Constantinople and Danubian
             Principalities to avoid persecution
@@ -94,21 +89,19 @@
           <hr />
           <p>
             <strong>1832 (August 30)</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/greece-independance-1832.jpg" 
-              alt="greece-independance-1832" 
-              /> -->
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
+              alt="greece-independance-1832"
+            />
             Greece becomes an independent state
           </p>
           <hr />
           <p>
             <strong>1877-1878</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/russian-turkish-war-1877.jpg" 
-              alt="russian-turkish-war-1877" 
-              /> -->
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
+              alt="russian-turkish-war-1877"
+            />
             Russo-Turkish War; after a series of defeats at the hands of Russia,
             the Ottoman Empire is crippled; Russia becomes dominant power in the
             Balkans and Black Sea
@@ -116,11 +109,10 @@
           <hr />
           <p>
             <strong>1880</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/greeeks-leave-pontus-1880.jpg" 
-              alt="greeeks-leave-pontus-1880" 
-              /> -->
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
+              alt="greeeks-leave-pontus-1880"
+            />
           </p>
           <p>
             Ottoman reprisals in response to Russian victories cause 250,000
@@ -130,11 +122,10 @@
           <hr />
           <p>
             <strong>1894-1896</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/armenian-massacre-1894.jpg" 
-              alt="armenian-massacre-1894" 
-              /> -->
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
+              alt="armenian-massacre-1894"
+            />
             Hamidian Massacres of the Armenian people by the Ottoman Empire
           </p>
           <hr />
@@ -152,11 +143,10 @@
           <hr />
           <p>
             <strong>1912-1913</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/balkan-wars-1912.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="balkan-wars-1912"
-              /> -->
+            />
             First and Second Balkan Wars; Ottoman Empire loses significant
             territories in Europe
           </p>
@@ -177,21 +167,19 @@
           <hr />
           <p>
             <strong>1914</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/deportation-of-greeks-1914.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="deportation-of-greeks-1914"
-              /> -->
+            />
           </p>
           <p>Deportations of Greeks in Eastern Thrace and Western Asia Minor</p>
           <hr />
           <p>
             <strong>1914-1919</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/world-war-one-1915.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="world-war-one-1915"
-              /> -->
+            />
           </p>
           <p>
             World War I; conscription of Christians to the Ottoman army in 1914;
@@ -204,11 +192,10 @@
           <hr />
           <p>
             <strong>1914-1922</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/pontian-greek-fighters-resist-1920.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="pontian-greek-fighters-resist-1920"
-              /> -->
+            />
           </p>
           <p>
             Pontian Greek fighters resist deportations, Turkish persecutions and
@@ -217,11 +204,10 @@
           <hr />
           <p>
             <strong>1915</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/armenian-genocide-begins-1915.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="armenian-genocide-begins-1915"
-              /> -->
+            />
           </p>
           <p>
             Armenian Genocide begins; over one million Armenians eventually
@@ -230,11 +216,10 @@
           <hr />
           <p>
             <strong>1916</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/moving-to-anatolia-1916.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="moving-to-anatolia-1916"
-              /> -->
+            />
           </p>
           <p>
             Greek inhabitants of the Pontian Greek towns of Matsouka and
@@ -243,11 +228,10 @@
           <hr />
           <p>
             <strong>1918</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/ottoman-empire-partitioning-1918.jpg" 
-              alt="ottoman-empire-partitioning-1918" 
-              /> -->
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
+              alt="ottoman-empire-partitioning-1918"
+            />
           </p>
           <p>
             Allies defeat the Ottoman Empire; World War I ends; Armistice of
@@ -256,11 +240,10 @@
           <hr />
           <p>
             <strong>1919 ( May 15 )</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/greek-army-lands-in-smyrna-1919.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="greek-army-lands-in-smyrna-1919"
-              /> -->
+            />
           </p>
           <p>
             Greek Army lands in Smyrna, at the suggestion of the Allies, to
@@ -273,11 +256,10 @@
           <hr />
           <p>
             <strong>1919-1922</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/second-phase-pontian-greek-genocide-1922.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="second-phase-pontian-greek-genocide-1922"
-              /> -->
+            />
           </p>
           <p>
             Nationalist movement of Mustafa Kemal (Ataturk); second phase of
@@ -287,11 +269,10 @@
           <hr />
           <p>
             <strong>1920 ( August 10 )</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/treaty-of-serves-1920.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="treaty-of-serves-1920"
-              /> -->
+            />
           </p>
           <p>
             Treaty of Sevres between the Allies and the Ottoman Empire
@@ -302,11 +283,10 @@
           <hr />
           <p>
             <strong>1922 ( August-September )</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/smyrna-defeat-1922.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="smyrna-defeat-1922"
-              /> -->
+            />
           </p>
           <p>
             Turkish Army defeats the Greek expeditionary army and destroys
@@ -329,11 +309,10 @@
           <hr />
           <p>
             <strong>1924</strong>
-            <Placeholder height="66px" width="221px" display="block" />
-            <!-- <img 
-              src="~/assets/images/2016/10/last-survivor-leaves-turkey-1924.jpg" 
+            <img
+              src="~/assets/images/placeholder_222x66.jpg"
               alt="last-survivor-leaves-turkey-1924"
-              /> -->
+            />
           </p>
           <p>
             Last survivors of Pontian Greek Genocide leave Turkey. Remaining

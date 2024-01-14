@@ -1,5 +1,3 @@
-import { IColumn } from '@inkline/inkline'; import { IColumn } from
-'@inkline/inkline'; import { ILayout } from '@inkline/inkline';
 <template>
   <IContainer>
     <SectionHeader>Oral Stories</SectionHeader>
@@ -10,13 +8,13 @@ import { IColumn } from '@inkline/inkline'; import { IColumn } from
             <div>
               <a href="/history/oral-stories/grigoris-lipiridis/">
                 <img
-                  src="~/assets/images/placeholder.jpg"
+                  src="~/assets/images/placeholder_288x434.jpg"
                   alt="g-lipiridis_opt"
                 />
                 <!-- <img
-                  src="~/assets/images/2016/04/g-lipiridis_opt.jpg"
-                  alt="g-lipiridis_opt"
-              /> -->
+                    src="~/assets/images/2016/04/g-lipiridis_opt.jpg"
+                    alt="g-lipiridis_opt"
+                /> -->
               </a>
             </div>
             <div>
@@ -68,13 +66,13 @@ import { IColumn } from '@inkline/inkline'; import { IColumn } from
             <div>
               <a href="/history/oral-stories/a-woman-from-kerasounta-recalls/">
                 <img
-                  src="~/assets/images/placeholder.jpg"
+                  src="~/assets/images/placeholder_288x434.jpg"
                   alt="kerasounta-woman"
                 />
                 <!-- <img
-                class="attachment-90% size-90% wp-post-image"
-                alt="kerasounta-woman"
-            /> -->
+                    class="attachment-90% size-90% wp-post-image"
+                    alt="kerasounta-woman"
+                /> -->
               </a>
             </div>
             <div>
@@ -103,11 +101,14 @@ import { IColumn } from '@inkline/inkline'; import { IColumn } from
           <div class="card">
             <div>
               <a href="/history/oral-stories/thea-kereki/">
-                <img src="~/assets/images/placeholder.jpg" alt="thea-kereki" />
+                <img
+                  src="~/assets/images/placeholder_288x434.jpg"
+                  alt="thea-kereki"
+                />
                 <!-- <img
-                src="~/assets/images/2016/10/Thea-Kereki.jpg"
-                alt="thea-kereki"
-            /> -->
+                    src="~/assets/images/2016/10/Thea-Kereki.jpg"
+                    alt="thea-kereki"
+                /> -->
               </a>
             </div>
             <div>
@@ -131,13 +132,13 @@ import { IColumn } from '@inkline/inkline'; import { IColumn } from
             <div>
               <a href="/history/oral-stories/christos-iliadis/">
                 <img
-                  src="~/assets/images/placeholder.jpg"
+                  src="~/assets/images/placeholder_288x434.jpg"
                   alt="Christos-Iliadis"
                 />
                 <!-- <img
-                src="~/assets/images/2016/10/Christos-Iliadis.jpg"
-                alt="Christos-Iliadis"
-            /> -->
+                    src="~/assets/images/2016/10/Christos-Iliadis.jpg"
+                    alt="Christos-Iliadis"
+                /> -->
               </a>
             </div>
             <div>
@@ -162,13 +163,13 @@ import { IColumn } from '@inkline/inkline'; import { IColumn } from
             <div>
               <a href="/history/oral-stories/elena-lazaridou/">
                 <img
-                  src="~/assets/images/placeholder.jpg"
+                  src="~/assets/images/placeholder_288x434.jpg"
                   alt="elena-lazaridou"
                 />
                 <!-- <img
-                src="~/assets/images/2016/10/Elena-Lazaridou.jpg"
-                alt="elena-lazaridou"
-            /> -->
+                    src="~/assets/images/2016/10/Elena-Lazaridou.jpg"
+                    alt="elena-lazaridou"
+                /> -->
               </a>
             </div>
             <div>

@@ -10,7 +10,7 @@
                     alt="american-accounts"
                 /> -->
             <img
-              src="~/assets/images/placeholder.jpg"
+              src="~/assets/images/placeholder_288x434.jpg"
               height="122px"
               alt="american-accounts"
             />
@@ -35,7 +35,7 @@
                     alt="eleftherios-venizelos"
             /> -->
             <img
-              src="~/assets/images/placeholder.jpg"
+              src="~/assets/images/placeholder_288x434.jpg"
               height="122px"
               alt="eleftherios-venizelos"
             />
@@ -61,7 +61,7 @@
                     alt="the-asia-minor-catastrophe"
                 /> -->
             <img
-              src="~/assets/images/placeholder.jpg"
+              src="~/assets/images/placeholder_288x434.jpg"
               height="122px"
               alt="the-asia-minor-catastrophe"
             />
@@ -91,7 +91,7 @@
                   alt="the-greek-refugee-crisis"
             /> -->
             <img
-              src="~/assets/images/placeholder.jpg"
+              src="~/assets/images/placeholder_288x434.jpg"
               height="122px"
               alt="the-greek-refugee-crisis"
             />
@@ -118,7 +118,7 @@
                 alt="the-great-betrayal"
             /> -->
             <img
-              src="~/assets/images/placeholder.jpg"
+              src="~/assets/images/placeholder_288x434.jpg"
               height="122px"
               alt="the-great-betrayal"
             />
@@ -142,7 +142,7 @@
                 alt="theia-halo"
             /> -->
             <img
-              src="~/assets/images/placeholder.jpg"
+              src="~/assets/images/placeholder_288x434.jpg"
               height="122px"
               alt="theia-halo"
             />
@@ -168,7 +168,7 @@
                 alt="twenty-three"
             /> -->
             <img
-              src="~/assets/images/placeholder.jpg"
+              src="~/assets/images/placeholder_288x434.jpg"
               height="122px"
               alt="twenty-three"
             />

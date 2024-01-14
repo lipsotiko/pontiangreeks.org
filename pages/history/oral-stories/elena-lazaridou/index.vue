@@ -2,11 +2,10 @@
   <IContainer>
     <SectionHeader>Elena Lazaridou</SectionHeader>
     <article>
-      <Placeholder height="300px" width="234px" float="left" />
-      <!-- <img
-              src="~/assets/images/2016/10/Elena-Lazaridou-241x300.jpg"
-              alt="elena-lazaridou"
-            /> -->
+      <img
+        src="~/assets/images/placeholder_200x300.jpg"
+        alt="elena-lazaridou"
+      />
       <p>
         From the stories of George Andreadis<br />
         Stories of Orthodox Greeks who, appearing as Ottoman Muslims, kept their
@@ -157,3 +156,10 @@ useHead({
   titleTemplate: "Elena Lazaridou | %s",
 });
 </script>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>

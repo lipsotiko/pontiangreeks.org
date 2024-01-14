@@ -2,11 +2,10 @@
   <IContainer>
     <SectionHeader>Christos Iliadis</SectionHeader>
     <article>
-      <Placeholder height="300px" width="234px" float="left" />
-      <!-- <img
-            src="~/assets/images/2016/10/Christos-Iliadis-254x300.jpg"
-            alt="christos-iliadis"
-          /> -->
+      <img
+        src="~/assets/images/placeholder_200x300.jpg"
+        alt="christos-iliadis"
+      />
       <p>
         This is a true story from the book “Brazier of Memory - Stories
         Forgotten even by God” written by the author George Andreadis. It has
@@ -160,3 +159,10 @@ useHead({
   titleTemplate: "Christos Iliadis | %s",
 });
 </script>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>

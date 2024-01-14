@@ -20,7 +20,7 @@
           />
           <!-- src="~/assets/images/2016/12/Genocide-of-Greeks-in-Turkey_Back-191x300.jpg" -->
           <img
-            src="~/assets/images/placeholder.jpg"
+            src="~/assets/images/placeholder_200x300.jpg"
             alt="genocide-of-greeks-in-turkey_back"
             width="205"
             height="300"

@@ -5,7 +5,7 @@
 </template>
 <script setup lang="ts">
 useHead({
-  title: 'Pontian Greek Society of Chicago \"Xeneteas\"',
+  title: "Pontian Greek Society of Chicago &quot;Xeneteas&quot;",
 });
 </script>
 <style lang="scss">
@@ -16,6 +16,21 @@ useHead({
 .nav {
   border-top: solid 2px $primary;
   text-transform: uppercase;
+}
+
+.navbar > .container {
+  display: inline-block;
+}
+
+.navbar .collapse-toggle {
+  position: absolute;
+  right: 18px;
+  top: 30px;
+}
+
+.navbar .navbar-brand {
+  padding-left: 0;
+  margin-right: 28px;
 }
 
 a {
@@ -70,7 +85,6 @@ li {
   border: 1px solid #dedede;
   margin: 8px;
   padding: 12px;
-  height: 95%;
 }
 
 :root {
@@ -80,16 +94,6 @@ li {
   --navbar--collapsed--item--background: white;
   --navbar--collapsed--item--hover--background: rgb(238, 238, 238);
   --navbar--item--hover--color: #ad4f18;
-}
-
-.navbar > .container {
-  display: inline-block;
-}
-
-.navbar .collapse-toggle {
-  position: absolute;
-  right: 18px;
-  top: 36px;
 }
 
 @font-face {

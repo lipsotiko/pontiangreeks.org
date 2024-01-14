@@ -4,11 +4,7 @@
     <article>
       <h5>The Pontian Dialect</h5>
       <p>
-        <Placeholder width="233px" height="300px" float="left" />
-        <!-- <img 
-          src="~/assets/images/2016/10/dialect-233x300.jpg" 
-          alt="dialect" 
-          /> -->
+        <img src="~/assets/images/placeholder_200x300.jpg" alt="dialect" />
         <strong
           >The Pontian Greek dialect can be traced back to the first Hellenic
           colonists, the Ionians of Miletus at the beginning of the 8th century
@@ -96,3 +92,10 @@ useHead({
   titleTemplate: "Dialect | %s",
 });
 </script>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>

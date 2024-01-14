@@ -9,11 +9,7 @@
         Conference held on November 6, 2010 at the Westin Hotel in Rosemont,
         Illinois
       </p>
-      <Placeholder height="200px" width="300px" float="left" />
-      <!-- <img 
-        src="~/assets/images/2016/04/DSC_0121-300x201-300x201.jpg" 
-        alt="dsc_0121-300x201" 
-        /> -->
+      <img src="~/assets/images/placeholder_300x200.jpg" />
       <p>
         The third annual Academic Conference on the Pontian and Anatolian Greek
         Genocide presented five scholars who discussed of events before, during,
@@ -83,11 +79,7 @@
         Asia Minor after World War I that wasn't lifted until after World War
         II.
       </p>
-      <Placeholder height="200px" width="300px" float="right" />
-      <!-- <img 
-        src="~/assets/images/2016/04/DSC_0139-1-300x201-300x201.jpg" 
-        alt="dsc_0139-1-300x201" 
-        /> -->
+      <img src="~/assets/images/placeholder_300x200.jpg" />
       <p>
         The conference's final presentation was by Robert J. Pranger, PhD, a
         private consultant with extensive experience in public policy with the
@@ -111,3 +103,10 @@
     </article>
   </IContainer>
 </template>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>

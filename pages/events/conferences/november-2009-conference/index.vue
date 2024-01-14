@@ -12,11 +12,10 @@
         and Eastern Thrace during the early part of the 20<sup>th</sup>
         century and the events that followed the “Megali Catastrophe”.
       </p>
-      <Placeholder height="200px" width="300px" float="right" />
-      <!-- <img 
-        src="~/assets/images/2016/04/Academic-Conference-066-300x201-1-300x201.jpg" 
-        alt="academic-conference-066-300x201" 
-        /> -->
+      <img
+        src="~/assets/images/placeholder_300x200.jpg"
+        alt="academic-conference-066-300x201"
+      />
       <p>
         “The purpose of the conference,” said George Mavropoulos, President of
         the Society, “is to present original new research on the ethnic
@@ -153,3 +152,10 @@
     </article>
   </IContainer>
 </template>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>

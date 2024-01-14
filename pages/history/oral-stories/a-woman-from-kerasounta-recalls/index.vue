@@ -2,13 +2,11 @@
   <IContainer>
     <SectionHeader>A Woman From Kerasounta Recalls</SectionHeader>
     <article>
-      <Placeholder width="233px" height="300px" float="left" />
+      <img
+        src="~/assets/images/placeholder_200x300.jpg"
+        alt="kerasounta-woman"
+      />
       <p>
-        <!-- <img
-          src="~/assets/images/2016/04/Kerasounta-Woman-233x300.jpg"
-          alt="kerasounta-woman"
-
-        /> -->
         The following is one of a series of stories in
         <strong
           ><span class="article-info"
@@ -114,3 +112,10 @@
     </article>
   </IContainer>
 </template>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>

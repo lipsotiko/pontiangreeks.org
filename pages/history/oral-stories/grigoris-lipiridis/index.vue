@@ -2,12 +2,11 @@
   <IContainer>
     <SectionHeader>Grigoris Lipiridis</SectionHeader>
     <article>
+      <img
+        src="~/assets/images/placeholder_200x300.jpg"
+        alt="g-lipiridis_opt"
+      />
       <p>
-        <Placeholder height="300px" width="234px" float="left" />
-        <!-- <img
-          src="~/assets/images/2016/04/g-lipiridis_opt-234x300.jpg"
-          alt="g-lipiridis_opt"
-        /> -->
         The following is a true story from the folkloric magazine “Pontian
         Forum”, Year 23 - Issue 92, October-December 2007, of Eyxinos Club of
         the city of Kozani, Greece. This article has been posted on our website
@@ -105,3 +104,10 @@ useHead({
   titleTemplate: "Grigoris Lipiridis | %s",
 });
 </script>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>

@@ -2,11 +2,7 @@
   <IContainer>
     <SectionHeader>Twenty Three</SectionHeader>
     <article>
-      <Placeholder height="300px" width="200px" float="left" />
-      <!-- <img
-          src="~/assets/images/2016/10/twenty-three-200x300.jpg"
-          alt="twenty-three"
-        /> -->
+      <img src="~/assets/images/placeholder_200x300.jpg" alt="twenty-three" />
       <p>
         The Pontian Greek Society of Chicago with the support of the Pan-Pontian
         Federation of USA and Canada has re-printed Twenty-Three Years in Asia
@@ -55,3 +51,10 @@ useHead({
   titleTemplate: "Twenty Three | %s",
 });
 </script>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>

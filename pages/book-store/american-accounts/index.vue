@@ -2,11 +2,10 @@
   <IContainer>
     <SectionHeader>American Accounts</SectionHeader>
     <article>
-      <Placeholder height="300px" width="200px" float="left" />
-      <!-- <img
-                src="~/assets/images/2016/10/american-accounts-200x300.jpg"
-                alt="american-accounts"
-              /> -->
+      <img
+        src="~/assets/images/placeholder_200x300.jpg"
+        alt="american-accounts"
+      />
       <p>
         American Accounts documents the destruction of of Smyrna edited by
         Constantine G. Hatzidimitriou and published by Aristide D. Caratzas
@@ -63,3 +62,10 @@ useHead({
   titleTemplate: "American Accounts | %s",
 });
 </script>
+<style scoped>
+img {
+  display: inline;
+  float: left;
+  margin: 12px;
+}
+</style>
