@@ -19,4 +19,9 @@ export default defineNuxtConfig({
   nitro: {
     compressPublicAssets: true,
   },
+  runtimeConfig: {
+    public: {
+      buildDate: process.env.BUILD_DATE
+    }
+  }
 });
