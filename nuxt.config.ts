@@ -16,4 +16,7 @@ export default defineNuxtConfig({
       colorMode: "light",
     },
   },
+  nitro: {
+    compressPublicAssets: true,
+  },
 });
