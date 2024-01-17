@@ -1,4 +1,4 @@
-# Pontian Greek Society "Xeniteas" of Chicago, IL
+# Pontian Greek Society "Xeniteas" of Chicago
 
     pontiangreeks.org
 
@@ -52,35 +52,7 @@
   - /assets/images/2016/04/Dr.-H.-Psomiades-300x200.jpg
   - /assets/images/2016/10/Fotiadis-300x240.jpg
   - /assets/images/2016/10/greek-the-genocide-continues.pdf
-  - /assets/images/2016/10/MG_1500-160x120.jpg
-  - /assets/images/2016/10/MG_1495-160x120.jpg
-  - /assets/images/2016/10/MG_1452-160x120.jpg
-  - /assets/images/2016/10/MG_1406-160x120.jpg
-  - /assets/images/2016/10/MG_1355-160x120.jpg
-  - /assets/images/2016/10/MG_1401-160x120.jpg
-  - /assets/images/2016/10/MG_1385-160x120.jpg
-  - /assets/images/2016/10/MG_1377-160x120.jpg
-  - /assets/images/2016/10/MG_1367-160x120.jpg
-  - /assets/images/2016/10/MG_1327-160x120.jpg
-  - /assets/images/2016/10/MG_1349-160x120.jpg
-  - /assets/images/2016/10/MG_1382-160x120.jpg
-  - /assets/images/2016/10/MG_1297-160x120.jpg
-  - /assets/images/2016/10/MG_1296-160x120.jpg
-  - /assets/images/2016/10/MG_1294-160x120.jpg
-  - /assets/images/2016/10/MG_1283-160x120.jpg
-  - /assets/images/2016/10/MG_1291-160x120.jpg
-  - /assets/images/2016/10/MG_1277-160x120.jpg
-  - /assets/images/2016/10/MG_1286-160x120.jpg
-  - /assets/images/2016/10/MG_1275-160x120.jpg
-  - /assets/images/2016/10/DSC_0264-160x120.jpg
-  - /assets/images/2016/10/DSC_0262-160x120.jpg
-  - /assets/images/2016/10/DSC_0254-160x120.jpg
-  - /assets/images/2016/10/DSC_0251-160x120.jpg
-  - /assets/images/2016/10/DSC_0172-160x120.jpg
-  - /assets/images/2016/10/DSC_0176-160x120.jpg
-  - /assets/images/2016/10/DSC_0196-160x120.jpg
-  - /assets/images/2016/10/DSC_0153-160x120.jpg
-  - /assets/images/2016/10/DSC_0122-160x120.jpg
+  - All youth group photos
 
 ## Local Prerequisites
 
@@ -90,18 +62,15 @@
 
 ## Local Development
 
-Running the web server: `npm run dev`
+`npm run dev`: Web server
 
-Linting:
+`npm run lint`: Linting, this overwrittes local files
 
-- `npm run lint:check`
-- `npm run lint`
+`npm run generate`: Generate static files in the .output directory
 
 ## Deployment Prerequisites
 
 - AWS CLI
-- S3 Bucket named "pontiangreeks"
-- S3 Bucket named "pontiangreeks.preview"
 
 ## Deploy Script
 

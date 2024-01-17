@@ -25,7 +25,7 @@ useHead({
 .navbar .collapse-toggle {
   position: absolute;
   right: 18px;
-  top: 30px;
+  top: 38px;
 }
 
 .navbar .navbar-brand {
