@@ -5,43 +5,31 @@
       <p><strong>Officers and Board Members</strong></p>
       <p>
         <strong>President</strong><br />
-        Anastasia Spiridis-Skoupas
+        Yiannis Konstantinidis
       </p>
       <p>
         <b>Vice President</b><br />
-        George Mavropoulos
+        Adonis Stergiou
+      </p>
+      <p>
+        <b>General Secretary</b><br />
+        Thomas Manzakides
       </p>
       <p>
         <strong>Treasurer</strong><br />
         Kyriakos Stergiou
       </p>
       <p>
-        <strong>Correspondence Secretary</strong><br />
-        Elizabeth Spiridis
-      </p>
-      <p>
-        <b>Recording Secretary</b><br />
-        Yannis Konstantinidis
-      </p>
-      <p>
         <strong>Board Members</strong><br />
-        Bill Kanetis<br />
-        Jean Kanetis<br />
         Savvas Koktzoglou<br />
-        Thomas Mantzakides<br />
+        Evangelos Poneres<br />
+        Anastasia Skoupas-Spiridis<br />
+        Sophia Michalopoulos<br />
         Demetrios Varnasidis
       </p>
       <p>
         <strong>Youth Coordinator</strong><br />
-        Stavros Stergiou
-      </p>
-      <p>
-        <strong>Legal Advisor</strong><br />
-        Catherine Hareas
-      </p>
-      <p>
-        <strong>Seminar Director</strong><br />
-        Anastasia Spiridis-Skoupas
+        Nikki Stergiou
       </p>
       <p>
         The Pontian Greek Society of Chicago&nbsp;aims to provide&nbsp;material
@@ -158,6 +146,6 @@
 </template>
 <script setup lang="ts">
 useHead({
-  titleTemplate: "About Us | %s",
+  titleTemplate: "About | %s",
 });
 </script>

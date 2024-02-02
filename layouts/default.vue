@@ -9,7 +9,7 @@
           <INavbarCollapsible>
             <INav size="sm">
               <INavItem to="/">Home</INavItem>
-              <INavItem to="/about-us">About Us</INavItem>
+              <INavItem to="/about-us">About</INavItem>
               <IDropdown events="hover" size="sm" :hoverHideDelay="0">
                 <INavItem stopPropagation>Events</INavItem>
                 <template #body>
@@ -50,7 +50,7 @@
                 </template>
               </IDropdown>
               <INavItem to="/book-store">Book Store</INavItem>
-              <INavItem to="/contact-us">Contact Us</INavItem>
+              <INavItem to="/contact-us">Contact</INavItem>
             </INav>
           </INavbarCollapsible>
         </INavbar>
@@ -63,7 +63,7 @@
           <IRow>
             <IColumn md="6" lg="3">
               <div class="footer-section">
-                <h4>Support Us</h4>
+                <h4>Support</h4>
                 <form
                   action="https://www.paypal.com/donate"
                   method="post"
@@ -85,7 +85,7 @@
             </IColumn>
             <IColumn md="6" lg="3">
               <div class="footer-section">
-                <h4>Follow Us</h4>
+                <h4>Follow</h4>
                 <p>
                   <a href="https://www.facebook.com/groups/32039846607/">
                     <img src="~/assets/images/2016/10/facebook.png" />
@@ -123,7 +123,7 @@
             </IColumn>
             <IColumn md="6" lg="3">
               <div class="footer-section">
-                <h4>Contact Us</h4>
+                <h4>Contact</h4>
                 <XeniteasContact />
               </div>
             </IColumn>

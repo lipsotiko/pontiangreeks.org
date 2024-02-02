@@ -1,6 +1,6 @@
 <template>
   <IContainer>
-    <SectionHeader>Contact Us</SectionHeader>
+    <SectionHeader>Contact</SectionHeader>
     <div style="border: solid 1px #eee; padding: 8px">
       <XeniteasContact />
     </div>
@@ -8,6 +8,6 @@
 </template>
 <script setup lang="ts">
 useHead({
-  titleTemplate: "Contact Us | %s",
+  titleTemplate: "Contact | %s",
 });
 </script>
