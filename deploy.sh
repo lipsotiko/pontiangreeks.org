@@ -1,3 +1,5 @@
+npm run generate
+
 BUCKET="pontiangreeks"
 
 if [ "$1" = "preview" ]; then

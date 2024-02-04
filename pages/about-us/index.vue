@@ -22,10 +22,11 @@
       <p>
         <strong>Board Members</strong><br />
         Savvas Koktzoglou<br />
+        George Mavropoulos<br />
+        Sophia Michalopoulos<br />
         Evangelos Poneres<br />
         Anastasia Skoupas-Spiridis<br />
-        Sophia Michalopoulos<br />
-        Demetrios Varnasidis
+        Demetrios Varnasidis<br />
       </p>
       <p>
         <strong>Youth Coordinator</strong><br />

@@ -4,8 +4,34 @@
   </NuxtLayout>
 </template>
 <script setup lang="ts">
+const url = "https://pontiangreeks.org";
+const title = 'Pontian Greek Society of Chicago "Xeneteas"';
+
 useHead({
-  title: "Pontian Greek Society of Chicago &quot;Xeneteas&quot;",
+  title,
+  meta: [
+    {
+      name: "description",
+      property: "og:description",
+      content: "Preserving the history and heritage of the Pontian Greeks",
+    }
+  ],
+  link: [
+    {
+      href: url,
+      rel: "canonical",
+    },
+  ],
+});
+
+useSeoMeta({
+  title,
+  ogUrl: url,
+  ogTitle: title,
+  ogImage: `${url}/trireme_logo.png`,
+  ogImageWidth: 600,
+  ogImageHeight: 600,
+  ogType: "website"
 });
 </script>
 <style lang="scss">
