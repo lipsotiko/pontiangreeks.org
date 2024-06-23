@@ -14,7 +14,7 @@ useHead({
       name: "description",
       property: "og:description",
       content: "Preserving the history and heritage of the Pontian Greeks",
-    }
+    },
   ],
   link: [
     {
@@ -31,7 +31,7 @@ useSeoMeta({
   ogImage: `${url}/trireme_logo.png`,
   ogImageWidth: 600,
   ogImageHeight: 600,
-  ogType: "website"
+  ogType: "website",
 });
 </script>
 <style lang="scss">

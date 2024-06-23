@@ -8,8 +8,8 @@
           </INavbarBrand>
           <INavbarCollapsible>
             <INav size="sm">
-              <INavItem to="/">Home</INavItem>
               <INavItem to="/about-us">About</INavItem>
+              <INavItem to="/membership">Membership</INavItem>
               <IDropdown events="hover" size="sm" :hoverHideDelay="0">
                 <INavItem stopPropagation>Events</INavItem>
                 <template #body>
@@ -35,22 +35,7 @@
                   >
                 </template>
               </IDropdown>
-              <IDropdown events="hover" size="sm" :hoverHideDelay="0">
-                <INavItem stopPropagation>Youth Group</INavItem>
-                <template #body>
-                  <IDropdownItem to="/youth-group/dance-troups"
-                    >Dance Troups</IDropdownItem
-                  >
-                  <IDropdownItem to="/youth-group/youth-news"
-                    >News</IDropdownItem
-                  >
-                  <IDropdownItem to="/youth-group/photo-gallery"
-                    >Photo Gallery</IDropdownItem
-                  >
-                </template>
-              </IDropdown>
               <INavItem to="/book-store">Book Store</INavItem>
-              <INavItem to="/contact-us">Contact</INavItem>
             </INav>
           </INavbarCollapsible>
         </INavbar>
@@ -61,29 +46,7 @@
       <ILayoutFooter>
         <ILayout class="footer-sections">
           <IRow>
-            <IColumn md="6" lg="3">
-              <div class="footer-section">
-                <h4>Support</h4>
-                <form
-                  action="https://www.paypal.com/donate"
-                  method="post"
-                  target="_top"
-                >
-                  <input type="hidden" name="business" value="FMY3M8BSTUL4U" />
-                  <input type="hidden" name="no_recurring" value="0" />
-                  <input type="hidden" name="currency_code" value="USD" />
-                  <input
-                    type="image"
-                    src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
-                    border="0"
-                    name="submit"
-                    title="PayPal - The safer, easier way to pay online!"
-                    alt="Donate with PayPal button"
-                  />
-                </form>
-              </div>
-            </IColumn>
-            <IColumn md="6" lg="3">
+            <IColumn md="6" lg="4">
               <div class="footer-section">
                 <h4>Follow</h4>
                 <p>
@@ -93,15 +56,15 @@
                 </p>
               </div>
             </IColumn>
-            <IColumn md="6" lg="3">
+            <IColumn md="6" lg="4">
               <div class="footer-section">
                 <h4>Quick Links</h4>
                 <ul>
                   <li>
-                    <a href="/">Home</a>
+                    <a href="/about-us/">About Us</a>
                   </li>
                   <li>
-                    <a href="/about-us/">About Us</a>
+                    <a href="/membership/">Membership</a>
                   </li>
                   <li>
                     <a href="/events/">Events</a>
@@ -110,21 +73,19 @@
                     <a href="/history/">History</a>
                   </li>
                   <li>
-                    <a href="/youth-group/">Youth Group</a>
-                  </li>
-                  <li>
                     <a href="/book-store/">Book Store</a>
-                  </li>
-                  <li>
-                    <a href="/contact-us/">Contact Us</a>
                   </li>
                 </ul>
               </div>
             </IColumn>
-            <IColumn md="6" lg="3">
+            <IColumn md="6" lg="4">
               <div class="footer-section">
                 <h4>Contact</h4>
                 <XeniteasContact />
+                <p>
+                  Email:
+                  <a :href="'mailto:' + xeniteasEmail">{{ xeniteasEmail }}</a>
+                </p>
               </div>
             </IColumn>
           </IRow>
@@ -137,6 +98,9 @@
     </ILayout>
   </div>
 </template>
+<script setup lang="ts">
+const { xeniteasEmail } = useAppConfig();
+</script>
 <style scoped lang="scss">
 .copyright {
   padding: 28px;

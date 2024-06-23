@@ -2,13 +2,19 @@
   <Carousel :autoplay="5000" :wrap-around="true">
     <Slide key="1">
       <div>
+        <img src="~/assets/images/2023_youth_convention.jpg" />
+        14th Annual Pontian Youth Festival 2023
+      </div>
+    </Slide>
+    <Slide key="2">
+      <div>
         <img src="~/assets/images/2016/10/3rd-Conference.jpg" />
         <a href="/events/conferences/november-2010-conference/">
           Third Academic Conference 2010
         </a>
       </div>
     </Slide>
-    <Slide key="2">
+    <Slide key="3">
       <div>
         <img src="~/assets/images/2016/10/2nd-Conference.jpg" />
         <a href="/events/conferences/november-2009-conference/">
@@ -16,7 +22,7 @@
         </a>
       </div>
     </Slide>
-    <Slide key="3">
+    <Slide key="4">
       <div>
         <img src="~/assets/images/2016/10/1st-Conference.jpg" />
         <a href="/events/conferences/may-2008-conference/">
