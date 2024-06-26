@@ -10,16 +10,7 @@
             <INav size="sm">
               <INavItem to="/about-us">About</INavItem>
               <INavItem to="/membership">Membership</INavItem>
-              <IDropdown events="hover" size="sm" :hoverHideDelay="0">
-                <INavItem stopPropagation>Events</INavItem>
-                <template #body>
-                  <IDropdownItem to="/events/calendar">Calendar</IDropdownItem>
-                  <IDropdownItem to="/events/lectures">Lectures</IDropdownItem>
-                  <IDropdownItem to="/events/conferences"
-                    >Conferences</IDropdownItem
-                  >
-                </template>
-              </IDropdown>
+              <INavItem to="/events">Events</INavItem>
               <IDropdown events="hover" size="sm" :hoverHideDelay="0">
                 <INavItem stopPropagation>History</INavItem>
                 <template #body>
@@ -67,7 +58,7 @@
                     <a href="/membership/">Membership</a>
                   </li>
                   <li>
-                    <a href="/events/">Events</a>
+                    <a href="/events">Events</a>
                   </li>
                   <li>
                     <a href="/history/">History</a>

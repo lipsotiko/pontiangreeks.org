@@ -9,7 +9,7 @@
     <Slide key="2">
       <div>
         <img src="~/assets/images/2016/10/3rd-Conference.jpg" />
-        <a href="/events/conferences/november-2010-conference/">
+        <a href="/events/past-events/conferences/november-2010-conference/">
           Third Academic Conference 2010
         </a>
       </div>
@@ -17,7 +17,7 @@
     <Slide key="3">
       <div>
         <img src="~/assets/images/2016/10/2nd-Conference.jpg" />
-        <a href="/events/conferences/november-2009-conference/">
+        <a href="/events/past-events/conferences/november-2009-conference/">
           Second Academic Conference 2009
         </a>
       </div>
@@ -25,7 +25,7 @@
     <Slide key="4">
       <div>
         <img src="~/assets/images/2016/10/1st-Conference.jpg" />
-        <a href="/events/conferences/may-2008-conference/">
+        <a href="/events/past-events/conferences/may-2008-conference/">
           First Academic Conference 2008
         </a>
       </div>

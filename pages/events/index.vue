@@ -1,19 +1,17 @@
 <template>
   <IContainer>
     <SectionHeader>Events</SectionHeader>
-    <ILayout>
-      <IRow>
-        <IColumn md="12" lg="4">
-          <LinkCard href="/events/calendar/" title="Calendar" />
-        </IColumn>
-        <IColumn md="12" lg="4">
-          <LinkCard href="/events/lectures/" title="Lectures" />
-        </IColumn>
-        <IColumn md="12" lg="4">
-          <LinkCard href="/events/conferences/" title="Conferences" />
-        </IColumn>
-      </IRow>
-    </ILayout>
+    <div class="past-events">
+      <a href="/events/past-events">Past Events</a>
+    </div>
+    <iframe
+      style="border: 0"
+      src="https://calendar.google.com/calendar/embed?src=pontiangreeks%40gmail.com&amp;ctz=America/Chicago"
+      width="960"
+      height="720"
+      frame
+      scrolling="no"
+    ></iframe>
   </IContainer>
 </template>
 <script setup lang="ts">
@@ -21,3 +19,9 @@ useHead({
   titleTemplate: "Events | %s",
 });
 </script>
+<style scoped>
+.past-events {
+  display: flex;
+  justify-content: flex-end;
+}
+</style>
