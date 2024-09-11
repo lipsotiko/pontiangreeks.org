@@ -8,32 +8,45 @@
           <IColumn md="12" lg="4">
             <div class="news-item card">
               <div>
-                <a href="/home/lecture-on-the-refugee-crisis/">
+                <a
+                  href="https://pontiangreeksocietyofchicago.ticketspice.com/47th-annual-dinner-dance"
+                >
                   <img
-                    src="~/assets/images/2017/05/Refugee-Crisis.jpg"
-                    alt="refugee-crisis"
+                    src="~/assets/images/2024_dinner_dance_thumbnail.jpg"
+                    alt="2024 dinner dance"
                   />
                 </a>
               </div>
               <div>
                 <h6>
-                  <a href="/home/lecture-on-the-refugee-crisis/">
-                    Lecture on the refugee crisis
+                  <a
+                    href="https://pontiangreeksocietyofchicago.ticketspice.com/47th-annual-dinner-dance"
+                  >
+                    47th Annual Dinner Dance
                   </a>
                 </h6>
                 <p>
-                  Please join us on Sunday, May 21st , 2:00 -4:00 pm at the
-                  National Hellenic Museum (NHM) for the lecture on the refugee
-                  crisis. The Asia Minor and Pontos Hellenic Research Center
-                  (AMPHRC) and the Pontian Greek Society of Chicago are pleased
-                  to invite Hannibal Travis, Professor of Law, to speak on the
-                  current refugee crisis and its similarities to the Christian
-                  refugees during the collapse of the Ottoman Empire...<a
-                    href="/Refugee-Crisis.pdf"
-                    download
-                    >More detail</a
-                  >
+                  Saturday, November 9th, 2024 | 7:00pm<br />
+                  <br />
+                  Nikos Banquets <br />
+                  7600 S. Harlem Ave. <br />
+                  Bridgeview, IL
                 </p>
+                <div class="card-bottom">
+                  <a
+                    class="wx-button"
+                    href="https://pontiangreeksocietyofchicago.ticketspice.com/47th-annual-dinner-dance"
+                    style="
+                      background: #c8a15e;
+                      color: white;
+                      padding: 10px 20px;
+                      text-decoration: none;
+                      font-weight: bold;
+                    "
+                    target="_blank"
+                    >Get Tickets</a
+                  >
+                </div>
               </div>
             </div>
           </IColumn>

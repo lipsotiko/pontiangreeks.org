@@ -5,7 +5,7 @@
 </template>
 <script setup lang="ts">
 const url = "https://pontiangreeks.org";
-const title = 'Pontian Greek Society of Chicago "Xeneteas"';
+const title = 'Pontian Greek Society of Chicago "Xeniteas"';
 
 useHead({
   title,
@@ -111,6 +111,11 @@ li {
   border: 1px solid #dedede;
   margin: 8px;
   padding: 12px;
+}
+
+.card .card-bottom {
+  display: flex;
+  justify-content: center;
 }
 
 :root {

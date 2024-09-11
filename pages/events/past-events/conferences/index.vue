@@ -6,7 +6,9 @@
         <IColumn md="12" lg="4">
           <div class="conference-item card">
             <div>
-              <a href="/events/past-events/conferences/november-2010-conference/">
+              <a
+                href="/events/past-events/conferences/november-2010-conference/"
+              >
                 <img
                   src="~/assets/images/2016/10/3rd-Conference.jpg"
                   alt="3rd-conference"
@@ -15,7 +17,9 @@
             </div>
             <div>
               <h6>
-                <a href="/events/past-events/conferences/november-2010-conference/">
+                <a
+                  href="/events/past-events/conferences/november-2010-conference/"
+                >
                   3rd Academic Conference - 2010
                 </a>
               </h6>
@@ -33,7 +37,9 @@
         <IColumn md="12" lg="4">
           <div class="conference-item card">
             <div>
-              <a href="/events/past-events/conferences/november-2009-conference/">
+              <a
+                href="/events/past-events/conferences/november-2009-conference/"
+              >
                 <img
                   src="~/assets/images/2016/10/2nd-Conference.jpg"
                   alt="2nd-conference"
@@ -42,7 +48,9 @@
             </div>
             <div>
               <h6>
-                <a href="/events/past-events/conferences/november-2009-conference/">
+                <a
+                  href="/events/past-events/conferences/november-2009-conference/"
+                >
                   2nd Academic Conference 2009
                 </a>
               </h6>
