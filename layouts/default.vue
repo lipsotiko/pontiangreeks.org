@@ -8,27 +8,30 @@
           </INavbarBrand>
           <INavbarCollapsible>
             <INav size="sm">
-              <INavItem to="/about-us">About</INavItem>
-              <INavItem to="/membership">Membership</INavItem>
-              <INavItem to="/events">Events</INavItem>
+              <INavItem to="/" exact-active-class="-active">Home</INavItem>
+              <INavItem to="/about-us" exact-active-class="-active">About</INavItem>
+              <INavItem to="/membership" exact-active-class="-active">Membership</INavItem>
+              <INavItem to="/events" exact-active-class="-active">Events</INavItem>
               <IDropdown events="hover" size="sm" :hoverHideDelay="0">
-                <INavItem stopPropagation>History</INavItem>
+                <INavItem stopPropagation :active="historyPathActive()">History</INavItem>
                 <template #body>
-                  <IDropdownItem to="/history/chronology"
-                    >Chronology</IDropdownItem
-                  >
-                  <IDropdownItem to="/history/religion">Religion</IDropdownItem>
-                  <IDropdownItem to="/history/dialect">Dialect</IDropdownItem>
-                  <IDropdownItem to="/history/poems">Poems</IDropdownItem>
-                  <IDropdownItem to="/history/dances">Dances</IDropdownItem>
-                  <IDropdownItem to="/history/oral-stories"
-                    >Oral Stories</IDropdownItem
-                  >
+                  <IDropdownItem to="/history/chronology" :active="isExactPath('/history/chronology')">Chronology
+                  </IDropdownItem>
+                  <IDropdownItem to="/history/religion" :active="isExactPath('/history/religion')">Religion
+                  </IDropdownItem>
+                  <IDropdownItem to="/history/dialect" :active="isExactPath('/history/dialect')">Dialect</IDropdownItem>
+                  <IDropdownItem to="/history/poems" :active="isExactPath('/history/poems')">Poems</IDropdownItem>
+                  <IDropdownItem to="/history/dances" :active="isExactPath('/history/dances')">Dances</IDropdownItem>
+                  <IDropdownItem to="/history/oral-stories" :active="isExactPath('/history/oral-stories')">Oral Stories
+                  </IDropdownItem>
                 </template>
               </IDropdown>
-              <INavItem to="/book-store">Book Store</INavItem>
+              <INavItem to="/book-store" exact-active-class="-active">Book Store</INavItem>
             </INav>
-            <IButton outline color="primary" to="/stay-connected">Stay Connected</IButton>
+            <div class="action-buttons">
+              <IButton outline color="primary" to="/stay-connected">Stay Connected</IButton>
+              <IButton color="primary" to="/membership">Join</IButton>
+            </div>
           </INavbarCollapsible>
         </INavbar>
       </ILayoutHeader>
@@ -91,7 +94,17 @@
   </div>
 </template>
 <script setup lang="ts">
+const route = useRoute()
 const { xeniteasEmail } = useAppConfig();
+
+const historyPathActive = () => {
+  return route.path.startsWith("/history/")
+};
+
+const isExactPath = (path) => {
+  return route.path === path
+}
+
 </script>
 <style scoped lang="scss">
 .copyright {
@@ -102,6 +115,7 @@ const { xeniteasEmail } = useAppConfig();
   height: 120px;
   margin: 0;
 }
+
 .footer-sections {
   margin-top: 22px;
   padding: 28px;
@@ -122,5 +136,9 @@ const { xeniteasEmail } = useAppConfig();
 
 li {
   margin: 0;
+}
+
+.action-buttons a {
+  margin: 0 12px;
 }
 </style>
