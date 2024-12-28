@@ -28,6 +28,7 @@
               </IDropdown>
               <INavItem to="/book-store">Book Store</INavItem>
             </INav>
+            <IButton outline color="primary" to="/stay-connected">Stay Connected</IButton>
           </INavbarCollapsible>
         </INavbar>
       </ILayoutHeader>
@@ -97,14 +98,14 @@ const { xeniteasEmail } = useAppConfig();
   padding: 28px;
   color: #ffffff;
   text-align: center;
-  background-color: $primary;
+  background-color: var(--color-primary);
   height: 120px;
   margin: 0;
 }
 .footer-sections {
   margin-top: 22px;
   padding: 28px;
-  border-top: solid 2px $primary;
+  border-top: solid 2px var(--color-primary);
 }
 
 .footer-section {

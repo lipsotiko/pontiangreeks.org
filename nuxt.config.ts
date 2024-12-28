@@ -3,10 +3,11 @@ export default defineNuxtConfig({
   modules: ["@inkline/plugin/nuxt", "vue3-carousel-nuxt"],
   devtools: { enabled: true },
   vite: {
-    css: {
-      preprocessorOptions: {
-        scss: {
-          additionalData: '@use "~/assets/_colors.scss" as *;',
+    server: {
+      proxy: {
+        "/api": {
+          target: "http://localhost:8080",
+          changeOrigin: true,
         },
       },
     },

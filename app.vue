@@ -40,7 +40,7 @@ useSeoMeta({
 }
 
 .nav {
-  border-top: solid 2px $primary;
+  border-top: solid 2px var(--color-primary);
   text-transform: uppercase;
 }
 
@@ -61,12 +61,12 @@ useSeoMeta({
 
 a {
   text-decoration: none;
-  color: $primary;
+  color: var(--color-primary);
 }
 
 a:hover {
   text-decoration: none;
-  color: $primary-light;
+  color: var(--color-primary-400);
 }
 
 h1,
@@ -75,13 +75,13 @@ h3,
 h4 {
   text-transform: uppercase;
   font-family: "Michroma";
-  color: $primary;
+  color: var(--color-primary);
 }
 
 h5,
 h6 {
   font-family: "Noto Sans", sans-serif;
-  color: $primary;
+  color: var(--color-primary);
 }
 
 h3 {
@@ -99,7 +99,7 @@ h5 {
 
 p,
 li {
-  color: $light-grey;
+  color: var(--color-dark-tint-150);
   font-size: 14px;
 }
 
