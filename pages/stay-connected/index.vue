@@ -20,7 +20,7 @@
                     </IFormGroup>
                 </div>
                 <div class="bottom-section">
-                    <IButton v-if="!saved" block color="primary" :loading="saving" @click="requestToJoinMailingList"
+                    <IButton v-if="!saved" color="primary" :loading="saving" @click="requestToJoinMailingList"
                         :disabled="!schema.touched || schema.invalid">
                         Submit</IButton>
                     <IToast v-else color="success">
@@ -63,16 +63,14 @@ const errorTypes = ["touched", "invalid"];
 const requestToJoinMailingList = async () => {
     saving.value = true;
 
-    const API_PATH = 'https://poneres-portal-erg0gza3d2hwc6dh.eastus2-01.azurewebsites.net';
-
-    await $fetch(`${API_PATH}/api/public/mailing-list/join`, {
+    await $fetch(`/api/public/mailing-list/join?organization=XENITEAS`, {
+        baseURL: $config.public.apiBase,
         method: "POST",
         mode: 'no-cors',
         headers: {
             'Content-Type': 'x-www-form-urlencoded',
         },
         body: new URLSearchParams({
-            'organization': 'XENITEAS',
             'firstName': schema.value.firstName.value,
             'lastName': schema.value.lastName.value,
             'email': schema.value.email.value
@@ -93,6 +91,8 @@ form {
 }
 
 .bottom-section {
-    margin: 28px 0;
+    display: flex;
+    justify-content: center;
+    padding: 28px;
 }
 </style>
