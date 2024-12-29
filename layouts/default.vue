@@ -29,8 +29,12 @@
               <INavItem to="/book-store" exact-active-class="-active">Book Store</INavItem>
             </INav>
             <div class="action-buttons">
-              <IButton outline color="primary" to="/stay-connected">Stay Connected</IButton>
-              <IButton color="primary" to="/membership">Join</IButton>
+              <IButton link color="primary" to="/stay-connected">
+                Stay Connected
+              </IButton>
+              <IButton outline color="primary" to="/membership">
+                Join
+              </IButton>
             </div>
           </INavbarCollapsible>
         </INavbar>
@@ -123,7 +127,7 @@ const isExactPath = (path) => {
 }
 
 .footer-section {
-  min-height: 128px;
+  min-height: 188px;
 }
 
 .light-theme .footer-sections {

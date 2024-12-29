@@ -7,7 +7,7 @@
 </template>
 <style scoped lang="scss">
 header {
-  border-bottom: solid 2px var(--color-primary);
+  border-bottom: solid 1px var(--color-primary);
   margin-bottom: 20px;
   margin-top: 12px;
 }

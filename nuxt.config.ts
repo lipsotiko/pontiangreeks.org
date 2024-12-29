@@ -23,6 +23,10 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       buildDate: process.env.BUILD_DATE,
+      apiBase:
+        process.env.NODE_ENV === "development"
+          ? ""
+          : "https://poneres-portal-erg0gza3d2hwc6dh.eastus2-01.azurewebsites.net",
     },
   },
 });
