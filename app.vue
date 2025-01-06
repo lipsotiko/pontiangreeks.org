@@ -22,6 +22,16 @@ useHead({
       rel: "canonical",
     },
   ],
+  script: [
+    {
+      async: true,
+      src: "https://www.googletagmanager.com/gtag/js?id=G-NJQJ9JHHG2",
+    },
+    {
+      src: "/js/google.js",
+      type: "text/javascript",
+    },
+  ],
 });
 
 useSeoMeta({

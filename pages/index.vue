@@ -36,7 +36,6 @@
 }
 
 .left-aside {
-  /* margin: 22px; */
   height: 100%;
 }
 
