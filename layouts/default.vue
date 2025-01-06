@@ -49,7 +49,7 @@
               <div class="footer-section">
                 <h4>Follow</h4>
                 <p>
-                  <a href="https://www.facebook.com/groups/32039846607/">
+                  <a href="https://www.facebook.com/groups/32039846607/" target="_blank">
                     <img src="~/assets/images/2016/10/facebook.png" />
                   </a>
                 </p>

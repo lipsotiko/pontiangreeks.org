@@ -2,9 +2,8 @@
   <IContainer class="no-padding">
     <ILayout>
       <IRow no-gutter>
-        <IColumn md="12" lg="3">
+        <!--<IColumn md="12" lg="3">
           <aside class="left-aside">
-            <!-- <SectionHeader>Latest News & Events</SectionHeader> -->
             <div class="news-item card">
               <div>
                 <a target="_blank" href="/2025_Vassilopita_Event.png">
@@ -23,8 +22,8 @@
               </div>
             </div>
           </aside>
-        </IColumn>
-        <IColumn md="12" lg="9">
+        </IColumn>-->
+        <IColumn sm="12">
           <PhotoCarousel />
         </IColumn>
       </IRow>
