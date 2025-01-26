@@ -23,7 +23,7 @@
                     <IButton v-if="!saved" color="primary" :loading="saving" @click="requestToJoinMailingList"
                         :disabled="!schema.touched || schema.invalid">
                         Submit</IButton>
-                    <IToast v-else color="success">
+                    <IToast v-else v-model="saved" color="success" dismissible>
                         <p>Thank you! You will be notified of upcoming events.</p>
                     </IToast>
                 </div>
@@ -34,6 +34,11 @@
 <script setup>
 import { useForm } from "@inkline/inkline/composables";
 
+useHead({
+  titleTemplate: "Stay Connected | %s",
+});
+
+const runtimeConfig = useRuntimeConfig()
 const { schema } = useForm({
     firstName: {
         validators: [{ name: "required" }],
@@ -60,11 +65,17 @@ const saved = ref(false);
 
 const errorTypes = ["touched", "invalid"];
 
+const clear = () => {
+  schema.value.firstName.value = ''
+  schema.value.lastName.value = ''
+  schema.value.email.value = ''
+}
+
 const requestToJoinMailingList = async () => {
     saving.value = true;
 
     await $fetch(`/api/public/mailing-list/join?organization=XENITEAS`, {
-        baseURL: $config.public.apiBase,
+        baseURL: runtimeConfig.public.apiBase,
         method: "POST",
         mode: 'no-cors',
         headers: {
@@ -76,18 +87,17 @@ const requestToJoinMailingList = async () => {
             'email': schema.value.email.value
         })
     }).then(() => {
+        clear();
         saving.value = false;
+        saved.value = true;
     })
-
-    saving.value = false;
-    saved.value = true;
 };
 
 </script>
 <style>
 form {
     margin: 0 auto;
-    width: 500px;
+    max-width: 500px;
 }
 
 .bottom-section {

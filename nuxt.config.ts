@@ -25,8 +25,8 @@ export default defineNuxtConfig({
       buildDate: process.env.BUILD_DATE,
       apiBase:
         process.env.NODE_ENV === "development"
-          ? ""
-          : "https://poneres-portal-erg0gza3d2hwc6dh.eastus2-01.azurewebsites.net",
+        ? "http://localhost:8080"
+        : "https://app.poneres.com",
     },
   },
 });
