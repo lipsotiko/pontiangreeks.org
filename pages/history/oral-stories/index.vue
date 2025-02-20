@@ -11,10 +11,6 @@
                   src="~/assets/images/placeholder_288x434.jpg"
                   alt="g-lipiridis_opt"
                 />
-                <!-- <img
-                    src="~/assets/images/2016/04/g-lipiridis_opt.jpg"
-                    alt="g-lipiridis_opt"
-                /> -->
               </a>
             </div>
             <div>
@@ -66,13 +62,11 @@
             <div>
               <a href="/history/oral-stories/a-woman-from-kerasounta-recalls/">
                 <img
-                  src="~/assets/images/placeholder_288x434.jpg"
+                  src="~/assets/images/woman.jpg"
                   alt="kerasounta-woman"
+                  height="434px"
+                  width="288px"
                 />
-                <!-- <img
-                    class="attachment-90% size-90% wp-post-image"
-                    alt="kerasounta-woman"
-                /> -->
               </a>
             </div>
             <div>
@@ -102,13 +96,9 @@
             <div>
               <a href="/history/oral-stories/thea-kereki/">
                 <img
-                  src="~/assets/images/placeholder_288x434.jpg"
+                  src="~/assets/images/cross.jpg"
                   alt="thea-kereki"
                 />
-                <!-- <img
-                    src="~/assets/images/2016/10/Thea-Kereki.jpg"
-                    alt="thea-kereki"
-                /> -->
               </a>
             </div>
             <div>
@@ -132,13 +122,9 @@
             <div>
               <a href="/history/oral-stories/christos-iliadis/">
                 <img
-                  src="~/assets/images/placeholder_288x434.jpg"
+                  src="~/assets/images/refugee boy.jpg"
                   alt="Christos-Iliadis"
                 />
-                <!-- <img
-                    src="~/assets/images/2016/10/Christos-Iliadis.jpg"
-                    alt="Christos-Iliadis"
-                /> -->
               </a>
             </div>
             <div>
@@ -163,13 +149,9 @@
             <div>
               <a href="/history/oral-stories/elena-lazaridou/">
                 <img
-                  src="~/assets/images/placeholder_288x434.jpg"
+                  src="~/assets/images/church.jpg"
                   alt="elena-lazaridou"
                 />
-                <!-- <img
-                    src="~/assets/images/2016/10/Elena-Lazaridou.jpg"
-                    alt="elena-lazaridou"
-                /> -->
               </a>
             </div>
             <div>

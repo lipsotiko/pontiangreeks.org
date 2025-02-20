@@ -3,7 +3,7 @@
     <SectionHeader>Christos Iliadis</SectionHeader>
     <article>
       <img
-        src="~/assets/images/placeholder_200x300.jpg"
+        src="~/assets/images/refugee boy.jpg"
         alt="christos-iliadis"
       />
       <p>
@@ -163,6 +163,7 @@ useHead({
 img {
   display: inline;
   float: left;
-  margin: 12px;
+  margin: 22px;
+  width: 388px;
 }
 </style>
