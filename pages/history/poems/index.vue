@@ -58,7 +58,7 @@
         in his claws a brave youth's hands he grasped.
       </p>
       <p>
-        <a href="~/assets/images/2016/10/An-Eagle-Soared-to-the-Heights.pdf">
+        <a href="/history/poems/all-our-ships">
           Read more&#8230;
         </a>
       </p>

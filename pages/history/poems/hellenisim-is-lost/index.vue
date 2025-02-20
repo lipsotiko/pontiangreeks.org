@@ -41,7 +41,7 @@
                     Woe to us, Alas to us, Hellenism is lost!
                 </p>
                 <p>
-                    <b>Comments and Observations</b> Constantinople falls into the hands of the Turks in 1453.
+                    <b>Comments and Observations:</b> Constantinople falls into the hands of the Turks in 1453.
                     Eight years later in 1461 the Empire of Trapezunda falls. For the Pontian people these two grievous
                     events constitute a national calamity. The Pontian muse sings an eternal dirge about the destruction
                     of Hellenism in general.
@@ -76,7 +76,7 @@
                     The Nation though enslaved, will be resurrected yet again.
                 </p>
                 <p>
-                    <b>Comments and Observations</b>
+                    <b>Comments and Observations:</b>
                     This Pontian dirge about the ethnic calamity includes a characteristic element. Within its content
                     there exists self consolation along with the hope for the resurrection of the race. Immediately
                     after the fall, the Pontian people envision its resurrection. They enter servitude with the
