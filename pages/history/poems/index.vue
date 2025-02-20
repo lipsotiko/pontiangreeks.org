@@ -46,7 +46,7 @@
         He flew and perched at the Portal of Hagia Sophia.
       </p>
       <p>
-        <a href="~/assets/images/2016/10/Hellenism_Romiosoni-is-lost.pdf">
+        <a href="/history/poems/hellenisim-is-lost">
           Read more&#8230;
         </a>
       </p>
