@@ -58,7 +58,7 @@
         in his claws a brave youth's hands he grasped.
       </p>
       <p>
-        <a href="/history/poems/all-our-ships">
+        <a href="/history/poems/an-eagle-soared">
           Read more&#8230;
         </a>
       </p>
@@ -73,7 +73,7 @@
         they came back so forlorn.
       </p>
       <p>
-        <a href="~/assets/images/2016/10/All-our-ships.pdf">
+        <a href="/history/poems/all-our-ships">
           Read more&#8230;
         </a>
       </p>
