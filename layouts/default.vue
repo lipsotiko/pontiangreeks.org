@@ -27,6 +27,7 @@
                 </template>
               </IDropdown>
               <INavItem to="/book-store" exact-active-class="-active">Book Store</INavItem>
+              <INavItem to="/donate" exact-active-class="-active">Donate</INavItem>
             </INav>
             <div class="action-buttons">
               <IButton link color="primary" to="/stay-connected">
@@ -73,6 +74,9 @@
                   </li>
                   <li>
                     <a href="/book-store/">Book Store</a>
+                  </li>
+                  <li>
+                    <a href="/donate/">Donate</a>
                   </li>
                 </ul>
               </div>
