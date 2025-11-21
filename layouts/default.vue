@@ -29,9 +29,9 @@
               <INavItem to="/book-store" exact-active-class="-active">Book Store</INavItem>
             </INav>
             <div class="action-buttons">
-              <IButton link color="primary" to="/stay-connected">
+              <!-- <IButton link color="primary" to="/stay-connected">
                 Stay Connected
-              </IButton>
+              </IButton> -->
               <IButton outline color="primary" to="/membership">
                 Join
               </IButton>
