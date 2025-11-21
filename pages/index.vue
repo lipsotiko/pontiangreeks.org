@@ -26,7 +26,7 @@
             </div>
           </aside>
         </IColumn>
-        <IColumn sm="12">
+        <IColumn md="12" lg="9">
           <PhotoCarousel />
         </IColumn>
       </IRow>
