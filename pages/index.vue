@@ -2,7 +2,7 @@
   <IContainer class="no-padding">
     <ILayout>
       <IRow no-gutter>
-        <IColumn v-if="isEventPast('2025-12-14')" md="12" lg="3">
+        <!-- <IColumn v-if="isEventPast('2025-12-14')" md="12" lg="3">
           <aside class="left-aside">
             <div class="news-item card">
               <div>
@@ -25,8 +25,8 @@
               </div>
             </div>
           </aside>
-        </IColumn>
-        <IColumn md="12" lg="9">
+        </IColumn> -->
+        <IColumn>
           <PhotoCarousel />
         </IColumn>
       </IRow>

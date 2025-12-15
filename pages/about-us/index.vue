@@ -23,7 +23,7 @@
         <strong>Board Members</strong><br />
         Savvas Koktzoglou<br />
         George Mavropoulos<br />
-        Sophia Michalopoulos<br />
+        Sophia Petridis<br />
         Evangelos Poneres<br />
         Anastasia Skoupas-Spiridis<br />
         Demetrios Varnasidis<br />
