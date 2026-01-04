@@ -11,9 +11,9 @@
       </p>
       <p>
         <a
-          href="/Pontian Greek Society of Chicago Membership Form 2025.pdf"
+          href="/Pontian Greek Society of Chicago Membership Form 2026.pdf"
           target="_blank"
-          >2025 Membership Form</a
+          >2026 Membership Form</a
         >
       </p>
       <p>We look forward to welcoming you as a member!</p>

@@ -2,30 +2,27 @@
   <IContainer class="no-padding">
     <ILayout>
       <IRow no-gutter>
-        <!-- <IColumn v-if="isEventPast('2025-12-14')" md="12" lg="3">
+        <IColumn md="12" lg="3">
           <aside class="left-aside">
             <div class="news-item card">
               <div>
-                <a target="_blank" href="/Pontian_Society_Christmas_Party_2025.pdf">
-                  <img src="~/assets/images/2025_Christmas_Party_thumbnail.jpg" alt="Jan. 5th, 2025" />
+                <a target="_blank" href="/2026_Vassilopita_Event.png">
+                  <img src="~/assets/images/2026_Vassilopita_Event_thumbnail.png" alt="Jan. 5th, 2025" />
                 </a>
               </div>
               <div>
                 <h6>
-                  <a target="_blank" href="/Pontian_Society_Christmas_Party_2025.pdf">
-                    Christmas Party
+                  <a target="_blank" href="/2026_Vassilopita_Event.png">
+                    2026 Vassilopita Cutting
                   </a>
                 </h6>
                 <p>
-                  Saturday, December 13th, 2025 | 6:30pm<br>
-                  Click here to <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScVvrPBHFCmAXIW6Gb8XPOkfK3StLJbVrMxMdqfzQg_JAd-xg/viewform?pli=1">
-                    RSVP
-                  </a>
+                  Sundy, January 11th, 2026 | 2:00pm
                 </p>
               </div>
             </div>
           </aside>
-        </IColumn> -->
+        </IColumn>
         <IColumn>
           <PhotoCarousel />
         </IColumn>
