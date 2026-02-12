@@ -2,27 +2,27 @@
   <IContainer class="no-padding">
     <ILayout>
       <IRow no-gutter>
-        <!-- <IColumn md="12" lg="3">
+        <IColumn md="12" lg="3">
           <aside class="left-aside">
             <div class="news-item card">
               <div>
-                <a target="_blank" href="/2026_Vassilopita_Event.png">
-                  <img src="~/assets/images/2026_Vassilopita_Event_thumbnail.png" alt="Jan. 5th, 2025" />
+                <a target="_blank" href="/2026_dance_practice_flyer.jpg">
+                  <img src="~/assets/images/2026_dance_practice_flyer.jpg" alt="Mar. 2th, 2026" />
                 </a>
               </div>
               <div>
                 <h6>
-                  <a target="_blank" href="/2026_Vassilopita_Event.png">
-                    2026 Vassilopita Cutting
+                  <a target="_blank" href="/2026_dance_practice_flyer.jpg">
+                    Dance Practice Kick-Off!
                   </a>
                 </h6>
                 <p>
-                  Sundy, January 11th, 2026 | 2:00pm
+                  Sunday, March 2nd, 2026 | 6:00pm
                 </p>
               </div>
             </div>
           </aside>
-        </IColumn> -->
+        </IColumn>
         <IColumn>
           <PhotoCarousel />
         </IColumn>
