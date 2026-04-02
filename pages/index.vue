@@ -2,7 +2,7 @@
   <IContainer class="no-padding">
     <ILayout>
       <IRow no-gutter>
-        <IColumn md="12" lg="3">
+        <!-- <IColumn md="12" lg="3">
           <aside class="left-aside">
             <div class="news-item card">
               <div>
@@ -22,7 +22,7 @@
               </div>
             </div>
           </aside>
-        </IColumn>
+        </IColumn> -->
         <IColumn>
           <PhotoCarousel />
         </IColumn>
