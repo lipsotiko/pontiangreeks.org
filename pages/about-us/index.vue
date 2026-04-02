@@ -5,11 +5,11 @@
       <p><strong>Officers and Board Members</strong></p>
       <p>
         <strong>President</strong><br />
-        Yiannis Konstantinidis
+        Adonis Stergiou
       </p>
       <p>
         <b>Vice President</b><br />
-        Adonis Stergiou
+        Evangelos Poneres
       </p>
       <p>
         <b>General Secretary</b><br />
@@ -21,12 +21,11 @@
       </p>
       <p>
         <strong>Board Members</strong><br />
-        Savvas Koktzoglou<br />
-        George Mavropoulos<br />
+        Yiannis Konstantinidis<br />
         Sophia Petridis<br />
-        Evangelos Poneres<br />
         Anastasia Skoupas-Spiridis<br />
-        Demetrios Varnasidis<br />
+        Nikki Stergiou<br />
+        Stavros Stergiou
       </p>
       <p>
         <strong>Youth Coordinator</strong><br />
@@ -140,7 +139,8 @@
         Kyriakos Stergiou<br />
         George Mavropoulos<br />
         Anastasia Spiridis-Skoupas<br />
-        Savvas Koktzoglou
+        Savvas Koktzoglou<br />
+        Yiannis Konstantinidis
       </p>
     </div>
   </IContainer>
